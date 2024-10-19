@@ -1,5 +1,7 @@
 ## This Directory contains all the primary datasets directly taken from literature.
 
+## Note: A compressed file containing all primary datasets is available on Zenodo:
+
 # The following files are too large for storage on GitHub:
 Genetic_Interactions/SGA_ExE.txt
 Genetic_Interactions/SGA_ExN_NxE.txt
