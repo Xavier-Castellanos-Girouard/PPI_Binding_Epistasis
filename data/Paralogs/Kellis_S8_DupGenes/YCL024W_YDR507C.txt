@@ -1,0 +1,292 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ATGACTGTGGCGAATACCGAGACCCATTCTGCTGCTAAACCATCGAGTACTATAGGCCCA
+YDR507C         ------ATGGCAATCAATGGTAACAGTATTCCTGCCATAAAGGATAATACCATCGGTCCA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         TGGAAGCTTGGTGAAACACTGGGCTTTGGTAGCACCGGCAAGGTCCAACTTGCGCAACAT
+YDR507C         TGGAAACTAGGTGAAACTCTCGGTCTAGGGAGCACTGGTAAAGTCCAGCTTGCTCGTAAT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         GAGCGCACGGGCCATAGAACAGCCGTCAAAGTAATCTCAAAGTCCATTTTCAACAACAAC
+YDR507C         GGATCCACAGGACAAGAGGCGGCAGTTAAGGTAATATCAAAAGCAGTATTCAATACCGGT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         GGAAACCACAGTAA--CGACGATTCA----------------GTGCTGCCATACAACATC
+YDR507C         AATGTCAGCGGTACTTCGATTGTTGGCTCCACCACCCCAGATGCTCTACCATATGGTATA
+                                                                            
+
+Kwal_13222      ------------------ATGAAGCTTCTACACCACGCCAATGTTCTGCGTCTCTACGAC
+YCL024W         GAGCGTGAGATTGTTATTATGAAACTTTTGAGCCACCCAAACGTTCTGAGTCTTTACGAC
+YDR507C         GAACGCGAAATAATCATTATGAAGTTGTTAAACCACCCAAATGTGTTACGTTTATATGAT
+                                  *****  *  *   **** * ** **  *  ** * ** ** 
+
+Kwal_13222      GTATGGGAGACCAACTCGAACCTGTACATGGTGCTGGAGTACGTCGAGAAGGGCGAGCTC
+YCL024W         GTTTGGGAAACCAACAATAACCTGTACCTTATCCTGGAATACGCCGAAAAGGGAGAACTG
+YDR507C         GTCTGGGAAACAAATACAGATTTATACCTTGTTTTAGAATACGCGGAGAAAGGTGAGTTG
+                ** ***** ** **     *  * *** *  *  * ** ****  ** ** ** **  * 
+
+Kwal_13222      TTCAATCTACTGGTAGAGCGCGGCCCACTGCCCGAGAACGAGGCCGTGCGCTTTTTCCGG
+YCL024W         TTCAACTTGCTTGTGGACCACGGTCCCTTGCCCGAGCGTGAGGCCATCAATTGCTTCAGA
+YDR507C         TTCAACTTATTGGTTGAGAGAGGTCCTCTGCCAGAGCATGAAGCTATCAGGTTTTTTAGA
+                *****  *  * ** **    ** **  **** ***   ** **  *    *  **  * 
+
+Kwal_13222      CAAATAATCATCGGTATCTCATACTGCCACGCGCTGGGCATCGTGCACCGGGACCTGAAG
+YCL024W         CAGATAATTATAGGCATTTCATACTGCCATGCGCTAGGAATAGTACATCGGGATTTAAAG
+YDR507C         CAAATTATTATTGGTGTGTCGTACTGTCATGCGTTGGGTATTGTCCATCGTGATCTAAAA
+                ** ** ** ** **  * ** ***** ** *** * ** ** ** ** ** **  * ** 
+
+Kwal_13222      CCCGAGAACCTACTTCTGGACCATAAGTTCAACATCAAGATCGCAGATTTTGGAATGGCC
+YCL024W         CCAGAAAATCTTTTGCTCGATAGTTTCTATAATATCAAAATTGCGGATTTTGGTATGGCA
+YDR507C         CCGGAAAATCTATTATTAGATCATAAATATAACATCAAGATTGCAGATTTTGGTATGGCT
+                ** ** ** **  *  * **   *   *  ** ***** ** ** ******** ***** 
+
+Kwal_13222      GCTCTGGAGAGCAAGGACAAGTTGCTCGAGACTTCCTGCGGCTCGCCTCATTATGCGGCG
+YCL024W         GCTTTACAGACAGACGCCGACCTGCTAGAAACTTCTTGTGGGTCTCCTCATTATGCCGCT
+YDR507C         GCTTTGGAAACTGAAGGAAAGCTACTGGAGACGTCGTGCGGATCACCACATTATGCTGCA
+                *** *  * *   * *   *  * ** ** ** ** ** ** ** ** ******** ** 
+
+Kwal_13222      CCTGAGATCGTGTCCGGTACTGCCCTATCACGGCTTCGAAAGCGACGTTTGGTCATGCGG
+YCL024W         CCTGAGATCGTATCAGGT-CTGCCCTATGAAGGATTTGCCAGCGACGTTTGGTCTTGCGG
+YDR507C         CCAGAAATTGTATCTGGT-ATACCGTATCAAGGTTTCGCAAGTGATGTGTGGTCATGCGG
+                ** ** ** ** ** ***  * ** *** * ** ** *  ** ** ** ***** *****
+
+Kwal_13222      TATCATCCTATTTGCGCTGCTCACAGGAAGATTGCCTTTCGATGA---------------
+YCL024W         TGTAATCCTCTTTGCCCTTTTAACGGGTAGACTACCCTTCGATGAAGAAAACGGTAATGT
+YDR507C         TGTGATCCTATTCGCCCTTCTTACTGGTCGGTTACCCTTTGACGAGGAAGATGGAAATAT
+                * * ***** ** ** **  * ** **  *  * ** ** ** **               
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         TAGGGATTTGTTATTGAAAGTCCAAAAGGGCCAGTTTGAAATGCCCAATGACACCGAAAT
+YDR507C         AAGAACACTATTACTTAAAGTTCAAAAAGGTGAGTTCGAAATGCCTTCTGATGATGAAAT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         TTCCAGAGATGCACAAGATTTAATCGGCAAGATTCTCGTTGTAGATCCCAGGCAAAGAAT
+YDR507C         TTCGCGTGAAGCTCAGGATTTGATTAGAAAAATCTTAACCGTTGATCCTGAAAGAAGAAT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         AAAAATCAGAGACATCCTTAGTCATCCACTGCTAAAAAAATATCAAACCATTAAGGATTC
+YDR507C         CAAGACCAGAGATATACTCAAACATCCGCTATTACAAAAATATCCAAGTATAAGAGATTC
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         CAAAAGTATCAAAGATTTACCTCGTGAAAATACCTATCTATATCCACTGGCTGACTCGAA
+YDR507C         TAAAAGTATTAGAGGCTTACCAAGAGAAGACACATATCTCACGCCATTATCAG-------
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         CAACCATACTAGCGCCTCTATCGATGATTCAATCCTACAAAACTTGGTGGTACTTTGGCA
+YDR507C         -----AAAGTAATTCTTCTATTGACGCTACGATTTTGCAAAATTTAGTAATATTATGGCA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         TGGTAGACACGCCGATGACATCGTATCTAAACTGAAAGAGAATGGAACCAACAAAGAAAA
+YDR507C         TGGAAGAGATCCTGAAGGAATTAAGGAAAAACTAAGAGAACCTGGCGCTAATGCAGAAAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         AATTCTATATGCGCTACTATACCGTTTCAAACTGGACTCTGTAAGGGGATCGAATAAGAA
+YDR507C         GACATTATATGCACTACTGTATAGATTTAAGTGTGACACTCAAAAAGAGCTTATTAAGCA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         GAACCGCAATAAGATAAAGAAAACCAAAAAAAATAAAAGATCTAGCACACTTTCGTCATC
+YDR507C         ACAGCAAGTTAAGAAGAGGCAGTCAATTAGTAGCGTTTCTGTTTCCCCATCTAAAAAAGT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         GTCATCATTATTATTGAACAACCGAAGCATACAATCTACGCCACGCA-GACGTACATCC-
+YDR507C         ATCGACAACTCCACAACGCAGAAGAAATAGAGAATCTTTAATTAGTGTAACATCTTCTCG
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         --AAGAGGCA-----TTCCAGGGAATTCTCTTCTAGCAGGAAGAGATC-GTCCTTTTTAC
+YDR507C         TAAAAAGCCAATATCCTTCAACAAATTCACTGCCTCCAGTGCCTCCTCCAGCAATCTAAC
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         TGTCCTCGAATCCTACCGATAGTTCTCCAATACCTTT------GAGAAGTAGTAA-----
+YDR507C         TACACCCGGTTCTTCAAAACGCCTTTCAAAAAACTTCTCTTCAAAGAAGAAATTATCTAC
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         AAGAATTA------------------------CACATATTAACGTAGCGTC---TGCAAA
+YDR507C         AATCGTTAACCAATCTTCTCCAACACCAGCATCACGTAATAAAAGAGCTTCGGTTATAAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         TACCCAAGCAACGCCAAGTGGTGTCCCGAATCCTCACAA----GAGGAACTCAAAAAAAC
+YDR507C         TGTGGAAAAGAATCAAAAAAGAGCCTCTATCTTTTCTACTACCAAGAAGAACAAAAGATC
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         -----GGTCAAGCAAAAGATTATCTTATATGCCTAATACAAAAAGAAGCTCACTAACATC
+YDR507C         TTCTAGATCTATCAAGAGAATGTCATTGATACCAAGCATGAAACGTGAATCGGTGACAAC
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         AAAATCATTATCAAACTTTACTAACCTAATAGATGATGATGATTGGGAGTACATTGAAAA
+YDR507C         AAAATTAATGTCAACATATGCGAAATTGGCAGAGGATGACGATTGGGAATACATTGAGAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         GGATGCAAAGAGAACAAGTTCCAACTTCGCTACACTGATTGATGAAATATTTGAGCCTGA
+YDR507C         GGAAACAAAGAGAACGAGCTCAAATTTTGCAACTTTGATAGATGAAATTTTTGAGTACGA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         GAAATTTGAATTGGCGAAAAGAGAAAAGGCTGAACTTCAAAGAAAAGTTCAGGAAGCAAA
+YDR507C         AAAGTACGAACAAATAAGGAAAGAGAAGGAAGAGCTAGAACGTAAAGTGAGAGAAGCAAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         AA-------------GGCAATCAGTGAATGCACAGAAGATTAATGAGGACGAGT------
+YDR507C         AGCACGTGAAGAGCTGGAACGTAGAAGACGTAAACAAGAAGAAAAAGAACGTGCAAGAAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ----TTGGATCCGAAGTTTCTGATGGAATGA----AAGAGCTGAAAAAA-----------
+YDR507C         ATTACTAGAAAAGGAAGATCTGAAAAGAAAACAGGAGGAACTCAAGAAGCAAATTGAAAT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ----ATAAATGACA------AAGTGTCGTCCCCGTTGATAAATTACGAATTT--TCGCAA
+YDR507C         TGATATAAGTGATCTAGAGCAAGAGCTGTCCAAACACAAAGAGGAAAAACTGGATGGTAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         CA--AGAACTAT-----------TGCAAGATATAGA-------------CACCT------
+YDR507C         TATTAGATCTATCTCTGCTCCTATGGAAAATGAAGAGAAAAATATCAATCATTTGGAGGT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ---TACTAACGA--------ATCGTTATCAACTTTCGTCATATACTAGGCCTATTTCGAG
+YDR507C         TGATATTGACAATATTCTCCGTCGCCGCAACTTTTCTTTACAAACTAGACCTGTGTCAAG
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ACTGGATCCCGGATTAACG----CCTGTT--ACTGAGACACT---TCCTAACAACCTAAA
+YDR507C         GCTTGATCCGGGTATAATGTTCTCCAGTCCAACTGAGGAAGTAAGTCCAGTGGAACCAAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         AGAAAAAACAGCTCTGCTGCAGGATACTGAAAAGAAAATAATAGAAACGATACGCAGATC
+YDR507C         GAGAACAGAAAATGAAAGACTTACAACAGAAAAGAAAATTTTAGAAACTATCAGAAGATC
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         CAAATTTTTAGGATCGCTACTAAATGTTAGAGGGGGACT---ATCGCC----AGGGAA--
+YDR507C         AAAATTCTTGGGTTCATCATTTAATATCGATAAAGAGTTGAAATTGTCTAAAATGGAATA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ---AAGTGAACTGGCACC--------TATCGAAG--------------AGTCTCCCATAG
+YDR507C         TCCAAGTATAATTGCACCACAAAGATTGTCAGAGGAGCGAGTGGTGTCAGATTCTAATGA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         T-----------TTCAACCACACC----------ACTAATATAT---AATGATCGAATGG
+YDR507C         TGGATATGAATCTTTGATCCTCCCGAAGGATGGGAATGGCGTATCTCAATTAAAGGATAG
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         AACCTC--------------------------------GTAGGATATCCGATGTGGAAGT
+YDR507C         TACCGCAACAACTGCTCCCGTCTCTGATGGTAGGTTGAGGAAGATCTCTGAAATTAGAGT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         CCCACATTTCACGAGGAAATCAAAACACTTTACTACTGCTAATAATCGGCGCTCAGTCTT
+YDR507C         ACCACAATTTACTAGAAAATCAAGGCATTTTAGTGAGTCCAATAAAAGGCTATCTGTCCT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ATCTTTGTA---TGCGAAGGATTCAATCAAAGACTTAAACGAATTTTTAATAAAGGAAGA
+YDR507C         GTCGATGTACTCTACCAAGGAGTCGTTTACCAACTTGGTTGATATTTTGAAAAACGGTAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         TCCTGATTTGCCTCCACAAGGAAGC-----ACTGATAACGAAAGTAGGAGCGAAGATCCC
+YDR507C         CCTTGATGTCAATAACCAACAAAGCCAAAGAATTCCAACACCAAGAAGTGCGGATGATTC
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         GAAATAGCC----GAGAGTATCACTGATTCAAG-GAATATACA--ATATGATGAGGATGA
+YDR507C         AGAATTTCTTTTTGAAACTGTCAACGAAGAAGCTGAATATACAGGAAATAGTTCGAACGA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         TAGTAAG------GATGGTGATAATGTGAATAATGATAATATATT-------GAGC--GA
+YDR507C         TGAGAGATTGTACGATGTCGGTGATTCCACTATCAAAGACAAATCCGCGTTAAAGCTGAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         CTTTCCTCAAGGCGTTGGCATATCACAGGAATACGACATGAAG-GATAA---AAATC---
+YDR507C         CTTTGCAGATCGTTTTAATGGATCGAACGAA-GCGAAACAAACTGATAACTTACATCTTC
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         CAAACCAATCTCCA----------ATATCAAAAAGCGCAGAGCCCACA-CTGGTAGTGAA
+YDR507C         CGATCCTTCCTCCGCTTAATGGTGACAATGAATTGCGTAAACAGAATAGCCAAGAGGGTG
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ACT---TCCGTCTTTGAGTTCTTTCCAAGGAAAAAACGCCAGTGGGTTGGGCCTATACCA
+YDR507C         ACCAGGCACATCCAAAGATTAAATCGATGATACCAGAATCAGGCTCTTCTTCACATACTG
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         AAGAG----AGCCTTCTAAGGTAACCTTA----------CCGAGCCTTACAAGTAATAAC
+YDR507C         AAAAGGAAGAAGAAAATGAGGAAAAGGAAGAGAAAAAGCCAGAACAACACAAACAAGAAG
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         AGCAGCGTCGGAGAAAACATAGAGGATGGGGCGGAAAAAGGGACTGAGAGTGAGAAAATC
+YDR507C         AGGATCA--AGAAAAAAGAGAGAAAGTAGTAGATGATATGGAGCCACCATTGAACAAATC
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         GCTGC-------TTCCCTGTCAGACGATGACTTGAAGGAAGATAATGACAAGAAAGATAA
+YDR507C         TGTGCAAAAAATTAGGGAAAAAAATGCTGGCTCGCAGGCAAAGGATCATTCAAAAGATCA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         CGACACAGTGAATGCCCCTACTACAGTAAAAAAGCCACCTAACAGCGTACTCTTGAAAAA
+YDR507C         CTTAAAAGAGCATAAGCAGGATAAAAATACAGCAATTGGAAATGGTTCCTTCTTTAGAAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ATTCTCAAAAGGTAAAATCTTAGAACTTGAAATACATGCCAAAATACCTGAAAAGAGACT
+YDR507C         ATTCTCAAAATCTTCGGACAAAACAATGGAATTGTATGCCAAGATTTCTGCAAAACAATT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ATACGAGGGCCTACATAAACTACTAGAAGGCTGGAAGCAATACGGGTTGAAAAACCTGGT
+YDR507C         GTTTAATGGTTTAGAGAAGCTGTTGCGTGGTTGGACTCAGTATGGTTTAAAAAATATAAA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         GTTTAACATCACTAATATGATCATAACAGGAAAATTGGTGAATGACAGTATTTTATTTTT
+YDR507C         ATCGCACCCCAACAATCTGACCTTAACGGGTAAACTATCGAGTGATAATATATTCTCACT
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ACGATCTACGCTTTTTGAAATAATGGTTTTACCAAATGGAGACGGTAGAAGTTTAATTAA
+YDR507C         ACGTTCAACACTCTTTGAGGTTAATATTTATCCGA---GAGGTAAGATGAGCGTTGTGCA
+                                                                            
+
+Kwal_13222      ------------------------------------------------------------
+YCL024W         ATTCAATAAGAAAACAGGATCTACTAAAACGCTGACCAAGCTTGCTACAGAAATCCAAAT
+YDR507C         GTTCAAGAAAGTTTCTGGTTCATTCAAAGCTGTCAAAAAGTTGGTCAATGAAGTTGAGAA
+                                                                            
+
+Kwal_13222      ----------------------------------
+YCL024W         TATTTTACAAAAAGAAGGTGTTTTGGACAAATAA
+YDR507C         CGTCCTGAATAAGGAAGGCGTTCTACAAAAATAG
+                                                  
