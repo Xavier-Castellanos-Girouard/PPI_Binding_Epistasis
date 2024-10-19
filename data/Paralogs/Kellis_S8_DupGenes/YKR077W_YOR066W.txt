@@ -1,0 +1,167 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_21739      ATGGCTGAATCCGGAGGGCGCAGGAAACGCGGGAGACCGCCGCTATTGAAGAATTATTCG
+YKR077W         ------------------------------------------------------------
+YOR066W         ATGGATAAA---AGCATGATCAAAAAAAGAGGCAGGCCTCCCATCACCAAAGATTATCCC
+                                                                            
+
+Kwal_21739      GATCCCATGAAGAGCCCCATGGCGTACTCGTCACTTAAGATGCAGAAGGTGGCAGCAGCG
+YKR077W         ------------------------------------------------------------
+YOR066W         AATCCCCTACAAAGCCCCATGGCGCATTCTTCAATGCAGGTTCAGAAGCAGGGGCCTCAC
+                                                                            
+
+Kwal_21739      ACATTTTCAAAGCCAATGATGAAGGTGT--CAATG-GGCGCCTCGCCGAAAAAAAGGCGT
+YKR077W         ------------------------------------------------------------
+YOR066W         AGTTTTGCCAAACCTTTGATGAAAGTGGGGCAATCTAGTCCATCCCCGAATAAAAGAAGA
+                                                                            
+
+Kwal_21739      ACCTTCACGGATGGTTCGTCACCTGCCAGCTCCTTTTCTAGCAAGCACGATACCCATAAC
+YKR077W         -------------------------------------ATGGTATACACAACAC-CGCAAC
+YOR066W         CTCAGCATCGATCAT-CATCA---------TAATTTGGCGGCAACTACGAGA--AAGGGC
+                                                        * *   ** * *       *
+
+Kwal_21739      AGTTTCCGTGGGGTTCTTTTATCCACGCCAGTGAAAA----GAGTGCGAGTGCATGCAGG
+YKR077W         AACAGCAGAG--ATTCAGCTCCACACCGCAATCTAGC-----CACACTCTTATCTTCTCG
+YOR066W         AGATACAGGGGCGTTCTTCTTTCTACTCCCACCAAGAAATCGAGCACTAATGGCTCTACG
+                *    * * *   ***   *    **  *     *           *   *   *    *
+
+Kwal_21739      CTCATCGCC-------CTTC--ACGCCAGCAG--ACAACGTCTTTTCGTCAGAACCAAGG
+YKR077W         CCAATCAGA-------------GCCCCTTCAATGCAAACGCCCTCCTCATTGGATTAC--
+YOR066W         CCGATCTCTACCCCGTCTTCGAATGACAGCTATAATAACACGGTGTTTTCTGAAACAAGG
+                *  ***                    *  *      ***    *       * *  *   
+
+Kwal_21739      ACATATGCTTCGAAATGCTCACCTGTAAGGTCTGAAAACGAATTAGAAAGTCCCGTAAAG
+YKR077W         -CAATCACCTTCAATTGTT------------GTGTCATCGTCTTCAAT------GAAGGT
+YOR066W         AAAACCTTTCTTCAGAGTTCGCC-GCCTATCATGACGTCTTCTCCAGCTTTCCAAAAGAA
+                  *          *  * *             **    *   *             *   
+
+Kwal_21739      CAAGG----CGCGGAGCCACAGAATTCTCATTTCGAATTCTCACTATGTGTCGGCGACGA
+YKR077W         TCACG-------GCCGGTCTTCCAGTTTCGGT--AAATTTTCACTGTCTATTGGGCAAAA
+YOR066W         AAATGACTACATGTTTCCTTCACAGGAACAATTCAAACTTTCTTTAACCATTACCGAAAG
+                  * *       *          *    *  *   ** * **  *     *     *   
+
+Kwal_21739      TGGCAAAGCTAAAATTGCTG-----CTCCCGATAACAAGAAATCCAAGCCCGTTCG---T
+YKR077W         TGGTAAGGCTACAATACTGGG------GCCTATA-----------AACGTCCTTCCCACT
+YOR066W         TGGGAAGGCCGTTATTGCAGGATCTTTGCCTTTCTCTCCATCGTCAAAATCGTCTCATTT
+                *** ** **    **    *        **  *            **   * *      *
+
+Kwal_21739      AGCGCATCCTGCAGCCAGAAACCTCCTTTAACA----AAGTTTGACAAGGGAGTTGTACT
+YKR077W         GATACATCGAAAATGGAGAAA---CCTGTA------------CCAAAGAAAAAGCCTGTT
+YOR066W         AATGAACAATAATAATAAAAAGATCATGCAAAATGAAAAAATTCACAAAGGAAGCAAGAA
+                     *          * ***   * *  *              * *    *        
+
+Kwal_21739      GGGACTTCTCAA---TAAGATGAAAAGCA--------CTCGCAGAGAGTCT----AGTGG
+YKR077W         ACTTCTGACCGTGT-CGAAAAGACTCGTATATTATCTTTGTTGAAAAAAATGAGAAACAA
+YOR066W         AAATGCACCCAAGTTTGAGAAGAGACGTATTCTTTCTCTCTTAAAACAGATGAAGAATGA
+                         *       * * **   * *         *     *     *    *    
+
+Kwal_21739      CACATGTTTTGTTTCCAACTCGCCAGCGAAGACAGCAATGATACGCCCTAGTGAGTTAT-
+YKR077W         GAGCAGTACTGTCAACAAAAAATATAGTAAAGTACCATTAAAGTCTACGA-CAAGTTTG-
+YOR066W         GAAATATTGTGATACTGATACGCTCCCCGAAGCACCTCCAGCGAAACCAAGCAGATCTGA
+                 *    *  **      *           *   * *           * *     *    
+
+Kwal_21739      --TTGCGGACTTCCAGTCTTCTTC-ACCGCAGCAGTTGTATAGTGCGCAGTCTACGATGC
+YKR077W         --CAACCAGCAGCTACTGCACCTTCACCACTAGTGTCCAACAT----CATAAAGCCGTCT
+YOR066W         CATCATCGACACAGAATTGCCGACTATCATAGAAACTTCAGCTTCTCCAATAGGCAGTGC
+                         *    * *   *    * *           *       **     *  *  
+
+Kwal_21739      CTTGGACACCGA---ACTGT----------ACAGCTATTCTCCAATTTAAAAGCG-GATT
+YKR077W         CCCAAAAAGTTA---GCTTC----------CCCAAGAACTCCGAATGCAAACTCC-AATT
+YOR066W         TAGAAACAATAATATACTGCTTTCGCAACCACCACAATCACCCCCTTCAAGCGCGCAACT
+                     * *   *    **             *    *    *   *  **   *   * *
+
+Kwal_21739      TACACCTAATCCAGCCA-TCGAAGAAGTTCTAGATGGGCATGGTAGGATTTCTGGATTCA
+YKR077W         TAAATCTAAAC--TTTACTTCA-----TTTCAGAT---TAAAACAGGTTTC--ACTCCCA
+YOR066W         TAAGCCC---CCATCCACTCCAAAGAGTTCTCTA----CAATTCAGGATG---GGATTTA
+                **   *    *     * *  *     **    *     *    *** *          *
+
+Kwal_21739      CTCCTAGCAAAGTACCCAATGACCAGTCCCGGTC--GCGATCCAACAGCTCTGTCTTCAA
+YKR077W         ATCTCGATGGAATTTTACTTGAAAACTTCACGTCTCCTAACACAACCGCTGATTCACAGG
+YOR066W         CTCCCAATGTTGCACTAAATTCCGTATCATTAA---GTGATACTATATCCAAATCTACAA
+                 **                *      *            *  * *   *    **     
+
+Kwal_21739      GTACACTTCCGGAGATCCCCTTTTAATGAACGACGATCGTAATACCGATATCTTTCTTCC
+YKR077W         GTAATTCCGCCAGTAACATCA--TAAATAATAATCACGGTAGCGCAAATAATACCAACCA
+YOR066W         ATGC---TGTGGGTGCCAGC----AAT-AATAACAATCAGAACGGTAAT-TCCATTAGCA
+                 *              *  *    **  **  *  *    *      **         * 
+
+Kwal_21739      ACATCAGCA-AAGTGGCCCCTCAACAGAACTTTTCTTACAGC----AATTGCTAGCTTCC
+YKR077W         ATTTCTTTTTAATCTACCACTTCA---ATCATCACCAA-GGCAATTCAGGTCTCCTGCAA
+YOR066W         ATATCGCGG-ATGCTAATACTTTACTTACCTTGACTAATAGCCCGGGAGTTTTCTTATCA
+                *  **     *        **  *   * * *  *  *  **     *    *       
+
+Kwal_21739      CCTAAAAAGCCAATGT--CCTGCTTCACCTCTCCCCCATCATTAATGACTTTAAGTCCTC
+YKR077W         GATTAATAGATCCCCTTCCCATATCGGACTGGAACACCAGTCTCTTGATGTCACCCCCAA
+YOR066W         CCTCGAAACAAAATGTTGCCCAAGTCGACTACTGCATCTAACGAACAACAGCAGGAATTC
+                  *  * *       *  **        **    *            *    *       
+
+Kwal_21739      CTAGGGCGTCATTCAAGCAAGAAGCTTGTAATCACAATTCGGCCAATCTGCG-GGTAATT
+YKR077W         GAACGACGAATTTTGAATCTGCAAACAATCACTTCAATTCAA--ATTTTGCTCAAGCATC
+YOR066W         GTGTTTAAGTTTTCAAGTG-GTGACCCGTTATTGCTTACTGACGACGCAGAT-GGGAATT
+                           **  *    *       * *   *         *    *       ** 
+
+Kwal_21739      GAGGCCTCCAAAAGCTCTCAAAAGTGCGGCAGTCATCCAACCACGCCCATAGCAGAAGAA
+YKR077W         GA--TGTTAAGACGCCCTTCACTACCGCACATAGATGAGGTGAT-TCCACAGGACTCTAA
+YOR066W         GG---CCAGAAATGCTGTTCAATGTATCTAATACGCCCAG--ACGTCAAAAATGTTTTAA
+                *        * * **  *  *         *           *   * * *       **
+
+Kwal_21739      TTTGGCGGCTTTCCCCGGTCCA-TTCAATGCACTCCTCTCATACAGCAGACGATGAATGG
+YKR077W         TCCAGCCAATTACTCAGATAGA--TCGGACTATCTATCT------GTGGACCA-GAACGC
+YOR066W         CACACCT-CCTTCATGGATAAACTTTGGTTCACCTGGATTATTCAGCCCACCAAGAAGCT
+                     *    * *   * *  *  *      *      *      *   ** * ***   
+
+Kwal_21739      ATCGCTTCATAAGAGCTTTGGCGAATCTTTCGGTCAAAGC--ATTGCATTAA-GAACACA
+YKR077W         CAATAATCATAATGG--TGCACTTTCAGAACAGACCTATAATAATATAATGA-AATCTTC
+YOR066W         CTAATGTCATGGTAAATGGCACCACTGTAGCCACCGCATCGGATAGCGGCAACGTCCATA
+                      ****           *        *   *  *    *        *    *   
+
+Kwal_21739      -ACAACCGAAGCTTC--TCGAACATGACGATGCCAGGTTGGCCCTCAGGAAGTTGATCGG
+YKR077W         TATGATTTCGTTACCTATAGAAAAAGATGATGCCACAATGGCACTACGAAAACTTGTCTC
+YOR066W         GACAATTACAAGCTCAATTGGAGGCGCAAGTGCAAGTGCAATCGCAATCCAATTCTCCTA
+                 *  *         *  * * *   *    *** *               *  *   *  
+
+Kwal_21739      C----GGGTCCAAATAA-------------------------------------------
+YKR077W         C----AGAGAGTAG----------------------------------------------
+YOR066W         CTCAAAGGCAACAACAACAGCGTCAATTTCAAATACCCCCACCTCACATAAACATGAACT
+                *     *     *                                               
+
+Kwal_21739      ------------------------------------------------------------
+YKR077W         ------------------------------------------------------------
+YOR066W         CTTCCCCGCCACAAATCAATATCGCTTCCCCACCTCATCAATCTATGTCTCGGGTGTCAT
+                                                                            
+
+Kwal_21739      ------------------------------------------------------------
+YKR077W         ------------------------------------------------------------
+YOR066W         CTATTTACTTCAACAAAGAAAAAACCACAACAGGGGTAGCAAATATGCTAGGTAACACCA
+                                                                            
+
+Kwal_21739      ------------------------------------------------------------
+YKR077W         ------------------------------------------------------------
+YOR066W         AAAGCGAAAACTTACAGCCGCCGGCGAATTTATTTACCGCTGCCCATGGACCTTCAACTC
+                                                                            
+
+Kwal_21739      ------------------------------------------------------------
+YKR077W         ------------------------------------------------------------
+YOR066W         CTAGAAATCAAGAATTTCAATTACCCACTTTGATTGAATGCACTCCATTAATCCAGCAAA
+                                                                            
+
+Kwal_21739      ------------------------------------------------------------
+YKR077W         ------------------------------------------------------------
+YOR066W         CCATGAATGGCTCATTAGGAACCAAATACATACCAGGTACTTCAATTTCGAACAGTGCAA
+                                                                            
+
+Kwal_21739      ------------------------------------------------------------
+YKR077W         ------------------------------------------------------------
+YOR066W         CTCCTAATTTACACGGGTTCCCTGTTGGAACCGGGAAAGCTCCCTCTAGCTTTGACGATT
+                                                                            
+
+Kwal_21739      ------------------------------------------------------------
+YKR077W         ------------------------------------------------------------
+YOR066W         CACTAAAACAAAACCCGTACAGCAACAAACAGGATGATGCTAGAACTGCCTTGAAAAGAT
+                                                                            
+
+Kwal_21739      -----------------
+YKR077W         -----------------
+YOR066W         TAATCGATGATCAGTGA
+                                 
