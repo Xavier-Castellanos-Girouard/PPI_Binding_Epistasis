@@ -1,0 +1,67 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_9887       ------------------------------------------------------------
+YGR214W         ATGTCCTTACCAGCTACTTTTGACTTGACTCCAGAAGATGCCCAACTTTTGTTGGCTGCT
+YLR048W         ATGTCTTTACCAGCTACTTTTGATTTGACTCCAGAGGATGCCCAACTTTTGTTGGCCGCT
+                                                                            
+
+Kwal_9887       ------------------------------------------------------------
+YGR214W         AACACTCACTTAGGTGCTAGAAACGTTCAAGTTCACCAAGAACCATATGTTTTCAACGCA
+YLR048W         AACACCCATTTAGGTGCTAGAAACGTTCAAGTCCACCAAGAACCATACGTTTTCAATGCT
+                                                                            
+
+Kwal_9887       ------------------------------------------------------------
+YGR214W         AGACCAGATGGTGTCCACGTTATCAACGTTGGTAAGACCTGGGAAAAATTGGTTTTGGCT
+YLR048W         AGACCAGATGGTGTTCACGTTATCAATGTTGGTAAGACCTGGGAAAAGTTGGTTTTGGCT
+                                                                            
+
+Kwal_9887       ------------------------------------------------------------
+YGR214W         GCCAGAATCATCGCTGCCATTCCAAACCCAGAAGACGTTGTTGCCATCTCTTCCAGAACT
+YLR048W         GCTAGAATTATTGCTGCCATTCCAAACCCAGAAGATGTTGTTGCCATCTCTTCCAGAACC
+                                                                            
+
+Kwal_9887       ------------------------------------------------------------
+YGR214W         TTCGGTCAAAGGGCTGTTTTGAAGTTCGCTGCCCACACCGGTGCTACCCCAATCGCCGGT
+YLR048W         TACGGTCAAAGAGCTGTCTTGAAATTTGCTGCTCACACTGGTGCTACTCCAATCGCCGGT
+                                                                            
+
+Kwal_9887       ------------------------------------------------------------
+YGR214W         AGATTCACTCCAGGTTCTTTCACCAATTATATCACCCGTTCTTTCAAGGAACCAAGATTA
+YLR048W         AGATTCACTCCAGGTTCTTTCACTAATTACATCACCCGTTCTTTCAAGGAACCAAGATTG
+                                                                            
+
+Kwal_9887       ------------------------------------------------------------
+YGR214W         GTTATTGTCACCGACCCAAGATCAGATGCTCAAGCCATCAAGGAAGCTTCTTACGTTAAC
+YLR048W         GTTATTGTTACCGACCCAAGATTAGACGCTCAGGCCATTAAGGAAGCTTCTTACGTTAAC
+                                                                            
+
+Kwal_9887       ------------------------------------------------------------
+YGR214W         ATCCCTGTCATTGCTCTAACTGATCTTGACTCTCCATCAGAATTCGTCGATGTCGCTATC
+YLR048W         ATTCCAGTCATTGCTTTGACTGATTTGGACTCCCCATCTGAATTTGTTGATGTCGCCATC
+                                                                            
+
+Kwal_9887       ------------------------------------------------------------
+YGR214W         CCATGTAACAACAGAGGTAAGCACTCCATTGGTTTAATCTGGTACTTATTGGCTAGAGAA
+YLR048W         CCATGTAACAACAGAGGTAAGCACTCCATCGGTTTAATCTGGTACTTGTTGGCTAGAGAA
+                                                                            
+
+Kwal_9887       ---------------------------------------------------ATGCCTGAC
+YGR214W         GTTTTGAGACTAAGAGGTGCTTTAGTTGACAGAACTCAACCATGGTCCATCATGCCAGAT
+YLR048W         GTTTTGAGACTAAGAGGTGCTTTGGTCGACAGAACTCAACCATGGTCCATCATGCCAGAT
+                                                                   ***** ** 
+
+Kwal_9887       TTGTACTTCTACAGAGACCCAGAAGAGGTTGACCAGCAGGTCGCCGAGGAGTCCGCCGTC
+YGR214W         TTGTACTTCTACAGAGACCCTGAAGAAGTTGAACAACAAGTTGCTGAAGAAGCTACCACC
+YLR048W         TTGTACTTCTACAGAAACCCAGAAGAAGTTGAGCAAGTTGCTGAAGAAGCTGCTGCCGCT
+                *************** **** ***** ***** **    *  *  ** *   *  **   
+
+Kwal_9887       G------CTGCTGACGAGGACGTCAAGGAAGAAACCGCTGCTGAGGAACAAACTGAAGCT
+YGR214W         GAAGAAGCTGGTGAAGAAGAAGCCAAGGAAGAG---GTTACCGAAGAGCAAGCTGAAGCT
+YLR048W         GAAGAAGGTGAAGAAGAAGAAGTTAAGGAAGAA---GTCACTGAAGGTCAAGCTGAAGCT
+                *       **  ** ** ** *  ********    *   * ** *  *** ********
+
+Kwal_9887       GCTGACTGGGCCGAAGGTAACACCGAAGAAGTTGCCTCTTGGTAA
+YGR214W         ACTGAATGGGCTGAAGAAAATGCTGACAACGTCGAGT---GGTAA
+YLR048W         ACTGAATGGGCTGAAGAAAATGCAGACAACGTTGAAT---GGTAA
+                 **** ***** ****  **  * **  * ** *  *   *****
