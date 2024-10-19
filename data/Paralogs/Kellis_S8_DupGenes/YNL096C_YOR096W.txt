@@ -1,0 +1,52 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_2935       ATGTCAGCT---CAATCCAAGATTTTGTCCCAAGCTCCAAGCGAATTGGAATTGCAAGTT
+YNL096C         ATGTCCTCTGTCCAATCCAAGATCTTATCCCAAGCTCCAAGTGAGTTGGAATTACAAGTC
+YOR096W         ATGTCTGCTCCACAAGCCAAGATTTTGTCTCAAGCTCCAACTGAATTGGAATTACAAGTT
+                *****  **   *** ******* ** ** **********  ** ******** ***** 
+
+Kwal_2935       GCGCAAGCGTTCGTCGACTTGGAAGCGTCTTCTCCAGATGCCAAGGCCGACTTGAGACCT
+YNL096C         GCCAAGACCTTCATCGATCTAGAAAGCTCCTCTCCAGAACTAAAGGCTGACTTGAGACCA
+YOR096W         GCTCAAGCTTTCGTTGAATTGGAAAATTCTTCTCCAGAATTGAAAGCTGAGTTGAGACCT
+                **  *  * *** * **  * ***   ** ********    ** ** ** ******** 
+
+Kwal_2935       TTGCAATTCAAGTCTATCAGAGAGGT--ATGTTGA-------------------------
+YNL096C         TTGCAAATCAAATCTATCAGAGAAATTGATGTCACCGGTGGTAAGAAAGCACTAGTCCTT
+YOR096W         TTGCAATTCAAGTCCATCAGAGAAATCGACGTTGCTGGTGGTAAGAAGGCTTTGGCCATT
+                ****** **** ** ********  *  * **                            
+
+Kwal_2935       ------------------------------------------------------------
+YNL096C         TTTGTCCCAGTTCCAGCTTTGTCTGCATACCATAAGGTCCAAACCAAATTGACCCGTGAA
+YOR096W         TTTGTTCCAGTCCCATCTTTGGCTGGTTTCCACAAGGTTCAAACTAAGTTGACCCGTGAA
+                                                                            
+
+Kwal_2935       ------------------------------------------------------------
+YNL096C         TTGGAAAAGAAATTCCCTGACCGTCATGTTATTTTCTTGGCTGAAAGAAGAATCTTGCCA
+YOR096W         TTGGAAAAGAAATTCCAAGACCGTCATGTCATCTTCTTGGCTGAAAGAAGAATCTTGCCA
+                                                                            
+
+Kwal_2935       ------------------------------------------------------------
+YNL096C         AAACCATCTAGAACATCTAGACAAGTCCAAAAGAGACCAAGATCCAGAACTTTGACTGCT
+YOR096W         AAGCCATCTAGAACATCTAGACAAGTCCAAAAGAGACCAAGATCCAGAACCTTGACTGCT
+                                                                            
+
+Kwal_2935       ------------------------------------------------------------
+YNL096C         GTTCACGACAAGGTTTTGGAAGACATGGTTTTCCCAACTGAAATTGTCGGTAAAAGAGTT
+YOR096W         GTTCATGACAAGATCTTGGAAGACTTAGTCTTCCCAACTGAAATCGTTGGTAAGAGAGTT
+                                                                            
+
+Kwal_2935       ------------------------------------------------------------
+YNL096C         AGATATTTGGTTGGTGGTAACAAGATCCAAAAGGTTTTGTTAGACTCCAAGGATGTTCAA
+YOR096W         AGATATTTGGTTGGTGGTAACAAGATCCAAAAGGTTTTGTTAGACTCAAAGGATGTCCAA
+                                                                            
+
+Kwal_2935       ------------------------------------------------------------
+YNL096C         CAAATCGACTACAAGTTGGAATCTTTCCAAGCTGTCTACAACAAGTTGACTGGCAAACAA
+YOR096W         CAAATCGACTACAAATTGGAATCTTTCCAAGCTGTTTACAACAAATTGACTGGTAAGCAA
+                                                                            
+
+Kwal_2935       ---------------------------------
+YNL096C         ATTGTTTTTGAAATTCCAAGCCAGACCAACTAA
+YOR096W         ATTGTTTTCGAAATTCCAAGTGAAACTCATTAG
+                                                 

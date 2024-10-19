@@ -1,0 +1,162 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_8539       ATGTCTGATTTAGCTAACAAAATGGAAAACATGAACTTGGACGAAAACTCCAAGAACGCC
+YOR204W         ATGGCTGAACTGAGCGAACAAGTGCAAAATTTAAGCATCAACGACAACAACGAGAATGGT
+YPL119C         ATGGCAGACTTGCCACAGAAGGTATCTAATTTAAGCATCAACAACAAAGAGAATGGTGGT
+                *** * **  *     *  *  *    **  * * * *  ** * **     *    *  
+
+Kwal_8539       AGC------------TCGTACGTGCCTCCCCACATGCGT------GGAAAGAGAGGTGGT
+YOR204W         ------------------TATGTTCCTCCTCACTTAAGA------GGAAAACCAAGAAGT
+YPL119C         GGTGGCGGCAAATCATCTTATGTCCCACCGCACTTGAGAAGTAGAGGAAAACCATCATTC
+                                  ** ** ** ** *** *  *       *****   *      
+
+Kwal_8539       GGAAACCGCGCTCCTTCTTCGTTCCAAGAGGGAGACGGCGCATCGTATTTCAGCGGTAGA
+YOR204W         GCCAGAAATAACAGTAGCAACTACAATAACAACAACGGCGGCTACAACGGTGGCCGTGGC
+YPL119C         GAAAGAAGTACCCCAAAACAGGAAGATAAGGTTACGGGTGGTGATTTTTTCAGACGTGCT
+                *  *                     *  *       ** *            *  **   
+
+Kwal_8539       GGCGGCAGCCGTGGTGGCAGCCGTGGGTCGTCGTCGTTCTTTGGCGGCAGCAGAGGCGGC
+YOR204W         GGTGGCAGCTTCTTTAGCAACAACCGTCGTGGTGGTT------ACGGCAACGGTGGTTTC
+YPL119C         GGAAGGCAAACTGGGAACAATGGCGGGTTTTTTGGCTTTTCTAAGGAAAGAAATGGAGGG
+                **  *            **      *          *        *  *     **    
+
+Kwal_8539       AGCAGAGGCGGCTTTGGCAGTGGCCGTGGCGATGGCAGAGGCCAGTCGCGCGGAGTTGGC
+YOR204W         TTCGGTGGAAAC---AACGGTGGC---AGCAGATCTAACGGCCGT---TCTGGTG---GT
+YPL119C         ACGAGTGCGAACTATAACCGCGGA---GGCAGCTCAAATTACAAATCATCTGGAA---AT
+                    * *    *     * * **     **      *    *         **       
+
+Kwal_8539       AGATGGGTCAACGGTAAGCACATTTCTAGCGAACGCGACGAGCAGCTGGAACTGCAGCTG
+YOR204W         AGATGGATCGATGGCAAACATGTCCCAGCTCCAAGAAACGAAAAGGCCGAGATCGCCATA
+YPL119C         AGATGGGTAAATGGCAAGCATATACCGGGGCCTAAGAACGCGAAATTAGAAGCCGAACTG
+                ****** *  * ** ** **  *  *           ***   *    **        * 
+
+Kwal_8539       TTCGGTACTGCCGAGGACCCAGGTTTCCAGTCTTCTGGTATCAATTTCGACCACTACGAT
+YOR204W         TTTGGTGTCCCCGAGGATCCAAATTTCCAATCTTCTGGTATTAACTTCGATAACTACGAT
+YPL119C         TTTGGTGTACACGACGATCCCGATTACCATTCATCTGGTATAAAGTTTGATAATTACGAT
+                ** ***     *** ** **   ** *** ** ******** ** ** **  * ******
+
+Kwal_8539       GACATCCCAGTGGACGCTTCTGGTAACGACGTGCCTGAACCTATCACTGAGTTCACCTCG
+YOR204W         GATATTCCAGTGGACGCCTCTGGTAAGGATGTTCCTGAACCAATCACAGAATTTACCTCA
+YPL119C         AATATTCCCGTAGATGCATCTGGAAAAGATGTTCCTGAACCTATACTAGATTTTAGTTCT
+                 * ** ** ** ** ** ***** ** ** ** ******** **    ** ** *  ** 
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         CCTCCATTGGACGGATTGTTATTGGAAAACATCAAATTGGCCCGTTTCACCAAGCCAACA
+YPL119C         CCCCCTCTGGATGAGCTGTTAATGGAAAATATCAAACTTGCTAGTTTCACCAAACCTACT
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         CCTGTGCAAAAATACTCCGTCCCTATCGTTGCCAACGGCAGAGATTTGATGGCCTGTGCG
+YPL119C         CCAGTACAAAAATATTCTATTCCAATAGTTACCAAAGGTAGGGATTTGATGGCATGCGCA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         CAGACCGGTTCTGGTAAGACTGGTGGGTTTTTATTCCCAGTGTTGTCCGAATCATTTAAG
+YPL119C         CAAACGGGCTCAGGTAAGACAGGTGGGTTTTTGTTTCCGCTCTTCACGGAGCTATTCAGG
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         ACTGGACCATCTCCTCAACCAGAGTCTCAAGGCTCCTTTTACCAAAGAAAGGCCTACCCA
+YPL119C         TCTGGGCCCTCTCCAGTACCCGAGAAAGCACAGAGCTTTTATTCTAGAAAGGGATATCCA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         ACTGCTGTCATTATGGCTCCAACTAGAGAGTTGGCCACCCAAATTTTCGATGAAGCCAAG
+YPL119C         TCTGCTTTAGTACTTGCACCAACTAGAGAATTGGCTACCCAAATTTTTGAAGAAGCAAGA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         AAATTTACTTATAGATCCTGGGTCAAGGCCTGCGTCGTCTACGGTGGTTCTCCAATTGGT
+YPL119C         AAATTTACGTATAGATCTTGGGTTAGGCCATGCGTTGTTTATGGTGGCGCGCCAATCGGT
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         AACCAACTAAGAGAAATTGAACGTGGTTGCGATCTTTTAGTCGCTACTCCAGGTCGTTTG
+YPL119C         AACCAGATGAGGGAGGTTGACCGCGGCTGTGACTTATTGGTGGCTACACCAGGGCGGCTG
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         AATGACTTGTTGGAACGTGGTAAAATTTCTTTGGCCAACGTCAAGTATTTGGTTCTAGAT
+YPL119C         AATGACTTATTAGAACGCGGAAAAGTTTCTTTGGCTAATATCAAATACCTGGTATTGGAT
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         GAAGCTGATAGAATGTTGGATATGGGTTTCGAACCTCAAATTAGACATATTGTCGAAGAC
+YPL119C         GAGGCTGATAGAATGCTAGATATGGGATTCGAACCCCAAATTCGCCATATAGTTGAAGAA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         TGTGATATGACTCCTGTTGGTGAAAGACAAACTCTGATGTTCTCAGCTACTTTTCCCGCT
+YPL119C         TGTGATATGCCCTCTGTGGAAAATAGACAGACCTTGATGTTTTCCGCCACATTCCCAGTA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         GATATCCAACATTTGGCCCGTGATTTCTTAAGTGACTACATCTTTTTGTCTGTTGGTAGA
+YPL119C         GATATCCAGCATTTGGCACGCGATTTCTTAGATAATTATATTTTTTTATCAGTAGGAAGA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         GTCGGTTCTACTTCAGAAAACATTACTCAAAAAGTCTTATACGTTGAAAATCAAGATAAG
+YPL119C         GTCGGTTCCACCTCAGAAAATATCACGCAAAGAATATTATATGTCGATGACATGGACAAA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         AAGTCAGCCTTATTGGATCTATTGTCTGCATCCACTGACGGTTTGACTTTGATCTTTGTC
+YPL119C         AAGTCTGCGTTGTTAGATTTACTGTCTGCAGAGCATAAGGGATTGACATTGATTTTTGTT
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         GAAACTAAGAGAATGGCAGATCAATTGACCGATTTCCTGATCATGCAAAACTTTAGAGCT
+YPL119C         GAAACGAAAAGAATGGCGGATCAACTCACAGATTTTTTGATCATGCAAAATTTCAAAGCT
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         ACCGCCATTCATGGTGACCGTACCCAATCTGAGAGAGAACGTGCCTTGGCCGCCTTCAGA
+YPL119C         ACAGCCATACATGGTGACCGCACACAGGCTGAACGTGAACGTGCCTTATCTGCTTTCAAA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         TCTGGTGCCGCTACTTTATTGGTTGCCACAGCTGTCGCAGCTAGAGGTCTAGATATTCCA
+YPL119C         GCTAACGTAGCTGATATCCTGGTCGCAACAGCTGTAGCAGCGAGAGGTTTGGATATACCG
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         AACGTCACCCACGTTATCAACTACGATTTACCAAGTGATGTCGATGATTACGTCCATAGA
+YPL119C         AATGTCACACATGTCATTAATTATGATTTGCCCTCCGACATCGATGACTACGTTCACAGA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         ATTGGTAGAACTGGTCGTGCCGGTAACACCGGTCTTGCCACTGCCTTTTTCAACAGTGAA
+YPL119C         ATTGGTAGAACAGGCCGTGCTGGTAACACAGGCGTGGCTACTTCATTCTTCAATAGTAAT
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         AACAGTAACATTGTTAAAGGTTTGCATGAAATTTTGACTGAAGCTAACCAAGAAGTCCCA
+YPL119C         AATCAGAATATTGTGAAGGGTTTGATGGAAATTTTAAATGAAGCGAATCAAGAAGTTCCC
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         TCATTCTTGAAGGACGCTATGATGAGTGCTCCAGGTAGCAGAAGCAACAGCCGTAGAGGC
+YPL119C         ACGTTTTTAAGTGACCTGTCAAGACAGAATTCAAGAGGTGGAAGAACTAGGGGAGGAGGA
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         GGTTTC------GGTCGCAACAACAAC---AGAGATTACCGTAAGGCCGGAGGCGCTAGC
+YPL119C         GGTTTTTTCAATAGTCGTAATAACGGTTCAAGAGACTACCGTAAACATGGTGGAAATGGC
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         GCAGGCGGCTGGGGCTCTTCAAGAAGCAGAGATAACTCTTTCAGAGGCGGTAGTGGCTGG
+YPL119C         TCATTTGGGAGCACGAGGCCAAGGAATACTGGAA----CATCAAATTGGGGTTCGATTGG
+                                                                            
+
+Kwal_8539       ------------------------------------------------------------
+YOR204W         GGTAGCGATTCCAAGTCTTCTGGCTGGGGTAACAGCGGTGGTTCAAACAACTCTTCTTGG
+YPL119C         AG--GTGGGTTTAGAAATGATAATGAGAAAAACGGTTACGGAAATAGCAACGCTTCATGG
+                                                                            
+
+Kwal_8539       ------
+YOR204W         TGGTGA
+YPL119C         TGGTAA
+                      
