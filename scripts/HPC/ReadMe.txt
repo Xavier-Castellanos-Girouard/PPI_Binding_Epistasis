@@ -1,5 +1,7 @@
 #### Notes on HPC scripts ####
 
+**TODO: add tree file structure and input files.
+
 # All HPC scripts are run on Python 3.9.6
 
 ## 1. Creating Randomized Networks
