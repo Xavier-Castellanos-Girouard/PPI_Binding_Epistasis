@@ -12,4 +12,5 @@ Make_Constanzo_2016_dataset_minimal.py <br>
 Calc_Interaction_Stoichiometry.R <br>
 **Note: These scripts need raw SGA and preprocessed AP-MS data. See data/ReadMe**
 
-##
+## Analysis of Relation between Stoichiometries and GIs
+
