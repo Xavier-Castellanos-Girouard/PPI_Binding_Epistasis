@@ -10,10 +10,14 @@ Make_Constanzo_2016_dataset_minimal.py <br>
 &ensp; Output files: costanzo_2016_longer_withoutReps.csv <br>
 <br>
 Calc_Interaction_Stoichiometry.R <br>
-&ensp; 
+&ensp; Input files: 
 &ensp; 
 **Note: These scripts need raw SGA and preprocessed AP-MS data. See data/ReadMe**
 
 ## Analysis of Relation between Stoichiometries and GIs
+<br>
+Yeast_Stoichiometries_vs_GI.R <br>
+Human_Stoichioemtries_vs_GI.R <br>
+
 
 
