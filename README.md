@@ -20,7 +20,7 @@ Calc_Interaction_Stoichiometry.R <br>
 ## Analysis of Relation between Stoichiometries and GIs
 **Methods section "Analysis of genetic interactions and protein-protein interaction stoichiometries"** <br>
 Yeast_Stoichiometries_vs_GI.R <br>
-&ensp; Input files: costanzo_2016_longer_withoutReps.csv ; *Yeast_Interactome_Stoich.csv* <br>
+&ensp; Input files: *costanzo_2016_longer_withoutReps.csv* ; *Yeast_Interactome_Stoich.csv* <br>
 &ensp; Output files:  <br>
 <br>
 Human_Stoichiometries_vs_GI.R <br>
