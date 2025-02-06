@@ -3,8 +3,8 @@ All scripts and data related to the manuscript on protein-protein interaction bi
 All R scripts were run on version 4.4 <br>
 All python scripts were run on version 3.8 <br>
 See data/ReadMe for information on data that is too heavy to store on GitHub <br>
-Below, *Italic text* Indicates a dependency i.e., an input file created using another script
-<br>
+Below, *Italic text* Indicates a dependency i.e., an input file created using another script <br>
+Executing the analysis in the order described below should not yield any dependency errors <br>
 ## Yeast Genetic Interaction data processing script
 **Methods section "Collecting yeast and human genetic and protein-protein interaction data"** <br>
 Make_Constanzo_2016_dataset_minimal.py <br>
