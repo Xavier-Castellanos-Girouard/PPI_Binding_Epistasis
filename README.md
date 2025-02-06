@@ -15,9 +15,13 @@ Calc_Interaction_Stoichiometry.R <br>
 **Note: These scripts need raw SGA and preprocessed AP-MS data. See data/ReadMe**
 
 ## Analysis of Relation between Stoichiometries and GIs
-<br>
+**Methods section "Analysis of genetic interactions and protein-protein interaction stoichiometries"** <br>
 Yeast_Stoichiometries_vs_GI.R <br>
-Human_Stoichioemtries_vs_GI.R <br>
-
+&ensp; Input files:  <br>
+&ensp; Output files:  <br>
+<br>
+Human_Stoichiometries_vs_GI.R <br>
+&ensp; Input files:  <br>
+&ensp; Output files:  <br>
 
 
