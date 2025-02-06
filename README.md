@@ -5,10 +5,11 @@ All R scripts were run on version 4.4
 
 All python scripts were run on version 3.8
 
-## Main data preprocessing scripts
+## Main data processing scripts
 Make_Constanzo_2016_dataset_minimal.py <br>
 &ensp; Output file: costanzo_2016_longer_withoutReps.csv <br>
+<br>
 Calc_Interaction_Stoichiometry.R <br>
-**Note: These scripts have no dependencies**
+**Note: These scripts need raw SGA and preprocessed AP-MS data**
 
 ##
