@@ -13,7 +13,8 @@ Make_Constanzo_2016_dataset_minimal.py <br>
 ## Yeast Stoichiometries data processing script
 **Methods section "Collecting yeast and human genetic and protein-protein interaction data"** <br>
 Calc_Interaction_Stoichiometry.R <br>
-&ensp; Input files: Abundances_copies_per_cell.xlsx ; preprocessedProteinDataForCorrelation.txt <br>
+&ensp; Input files: Abundances_copies_per_cell.xlsx
+&emsp; preprocessedProteinDataForCorrelation.txt <br>
 &ensp; Output files: Yeast_Interactome_Stoich.csv <br>
 
 ## Analysis of Relation between Stoichiometries and GIs
