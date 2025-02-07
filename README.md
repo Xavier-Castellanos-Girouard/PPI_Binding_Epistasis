@@ -36,4 +36,6 @@ PDB_bind_Extract.R <br>
 &ensp; Input files: INDEX_general_PP.2020.txt ; PDBbind_vs2020/PDB_files/* <br>
 &ensp; Output files: Kd_PDB_list.csv <br>
 <br>
-
+PDB2Uniprot.py <br>
+&ensp; Input files: *Kd_PDB_list.csv*
+&ensp; Output files: PDB2Uniprot.csv
