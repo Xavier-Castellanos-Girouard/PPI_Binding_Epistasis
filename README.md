@@ -37,5 +37,5 @@ PDB_bind_Extract.R <br>
 &ensp; Output files: Kd_PDB_list.csv <br>
 <br>
 PDB2Uniprot.py <br>
-&ensp; Input files: *Kd_PDB_list.csv*
-&ensp; Output files: PDB2Uniprot.csv
+&ensp; Input files: *Kd_PDB_list.csv* <br>
+&ensp; Output files: PDB2Uniprot.csv <br>
