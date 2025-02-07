@@ -35,9 +35,11 @@ Human_Stoichiometries_vs_GI.R <br>
 PDB_bind_Extract.R <br>
 &ensp; Input files: INDEX_general_PP.2020.txt ; PDBbind_vs2020/PDB_files/* <br>
 &ensp; Output files: Kd_PDB_list.csv <br>
+<br>
 PDB2Uniprot.py <br>
 &ensp; Input files: *Kd_PDB_list.csv* <br>
 &ensp; Output files: PDB2Uniprot.csv <br>
+<br>
 Kd_PDB2Sys.R <br>
 &ensp; Input files: *PDB2Uniprot.csv* ; *Kd_PDB_list.csv* ; uniprotkb_database_HGNC_2024_02_28.tsv <br>
 &ensp; Output files: Yeast_Kd_literature.csv ; Human_Kd_literature.csv <br>
