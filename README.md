@@ -1,7 +1,7 @@
 # PPI_Binding_Epistasis
 All scripts and data related to the manuscript on protein-protein interaction binding and epistasis <br>
 All R scripts were run on version 4.4 <br>
-All python scripts were run on version 3.8 <br>
+All python scripts were run on version 3.9 <br>
 See data/ReadMe for information on data that is too heavy to store on GitHub <br>
 Below, *Italic text* Indicates a dependency i.e., an input file created using another script <br>
 Executing the analysis in the order described below should not yield any dependency errors <br>
