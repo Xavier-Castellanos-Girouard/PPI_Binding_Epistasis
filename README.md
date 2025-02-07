@@ -21,10 +21,10 @@ Calc_Interaction_Stoichiometry.R <br>
 **Methods section "Analysis of genetic interactions and protein-protein interaction stoichiometries"** <br>
 Yeast_Stoichiometries_vs_GI.R <br>
 &ensp; Input files: *costanzo_2016_longer_withoutReps.csv* ; *Yeast_Interactome_Stoich.csv* <br>
-&ensp; Output files:  <br>
+&ensp; Output files: Yeast_Stoich_GI.csv ; Yeast_Stoich_GI_wRegions.csv <br>
 <br>
 Human_Stoichiometries_vs_GI.R <br>
-&ensp; Input files:  <br>
-&ensp; Output files:  <br>
+&ensp; Input files: GI_Horlbeck.xlsx ; opencell-protein-abundance.csv ; opencell-protein-interactions.csv ; Stoichiometries_Hein.xlsx <br>
+&ensp; Output files: Human_Interactome_Stoich.csv ; Human_Stoich_GI.csv ; Human_Stoich_GI_wRegions.csv <br>
 
 
