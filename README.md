@@ -1,7 +1,10 @@
 # PPI_Binding_Epistasis
-All scripts and data related to the manuscript on protein-protein interaction binding and epistasis <br>
+This Repository contains all scripts and data related to the manuscript on protein-protein interaction binding and epistasis <br>
+<br>
 All R scripts were run on version 4.4 ; BiocManager is used for package management <br>
 All python scripts were run on version 3.9 <br>
+Scripts for analyses performed on the High Performance Computing (HPC) clusters are specifically written for the Slurm Workload Manager. <br>
+<br>
 See data/ReadMe for information on data that is too heavy to store on GitHub <br>
 Below, *Italic text* Indicates a dependency i.e., an input file created using another script <br>
 Executing the analysis in the order described below should not yield any dependency errors <br>
