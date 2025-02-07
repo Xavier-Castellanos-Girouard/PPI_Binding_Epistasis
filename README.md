@@ -19,7 +19,7 @@ Make_Constanzo_2016_dataset_minimal.py <br>
 Calc_Interaction_Stoichiometry.R <br>
 &ensp; Input files: Abundances_copies_per_cell.xlsx ; preprocessedProteinDataForCorrelation.txt <br>
 &ensp; Output files: Yeast_Interactome_Stoich.csv <br>
-
+<br>
 ## Analysis of Relation between Stoichiometries and GIs
 **Methods section "Analysis of genetic interactions and protein-protein interaction stoichiometries"** <br>
 Yeast_Stoichiometries_vs_GI.R <br>
@@ -29,5 +29,11 @@ Yeast_Stoichiometries_vs_GI.R <br>
 Human_Stoichiometries_vs_GI.R <br>
 &ensp; Input files: GI_Horlbeck.xlsx ; opencell-protein-abundance.csv ; opencell-protein-interactions.csv ; Stoichiometries_Hein.xlsx <br>
 &ensp; Output files: Human_Interactome_Stoich.csv ; Human_Stoich_GI.csv ; Human_Stoich_GI_wRegions.csv <br>
-
+## Collecting Kd values from literature
+**Methods section "Validating estimated dissociation constants using values from literature"**
+<br>
+PDB_bind_Extract.R <br>
+&ensp; Input files: INDEX_general_PP.2020.txt ; PDBbind_vs2020/PDB_files/* <br>
+&ensp; Output files: Kd_PDB_list.csv <br>
+<br>
 
