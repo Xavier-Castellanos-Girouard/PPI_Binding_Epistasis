@@ -40,5 +40,5 @@ PDB2Uniprot.py <br>
 &ensp; Input files: *Kd_PDB_list.csv* <br>
 &ensp; Output files: PDB2Uniprot.csv <br>
 Kd_PDB2Sys.R <br>
-&ensp; Input files: 
-&ensp; Output files: 
+&ensp; Input files: *PDB2Uniprot.csv* ; *Kd_PDB_list.csv* ; uniprotkb_database_HGNC_2024_02_28.tsv <br>
+&ensp; Output files: Yeast_Kd_literature.csv ; Human_Kd_literature.csv <br>
