@@ -52,5 +52,5 @@ Kd_PCA_Estimation.R <br>
 **Methods section "Estimating protein-protein interaction dissociation constants" and "Validating estimated dissociation constants using values from literature"**
 <br>
 Calc_Kd_HumanYeast.R <br>
-&ensp; Input files: *Human_Interactome_Stoich.csv* ; Hein_TableS3.xlsx ; opencell-protein-abundance.csv ; *Human_Kd_literature.csv* ; *Yeast_Interactome_Stoich.csv* ; *Yeast_Kd_literature.csv* ; *Estimated_Kd2_PCA_intensitiesNorm_LinFit_MeanCopyNumberUsed.csv*
+&ensp; Input files: *Human_Interactome_Stoich.csv* ; Hein_TableS3.xlsx ; opencell-protein-abundance.csv ; *Human_Kd_literature.csv* ; *Yeast_Interactome_Stoich.csv* ; *Yeast_Kd_literature.csv* ; *Estimated_Kd2_PCA_intensitiesNorm_LinFit_MeanCopyNumberUsed.csv* <br>
 &ensp; Output files: Human_Kd_Est_vs_Lit.csv ; Human_Estimated_Kd.csv ; Yeast_Estimated_Kd.csv ; Yeast_Kd_Est_vs_PCA_Kd.csv <br>
