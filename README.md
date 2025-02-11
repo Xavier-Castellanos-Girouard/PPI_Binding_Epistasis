@@ -43,3 +43,5 @@ PDB2Uniprot.py <br>
 Kd_PDB2Sys.R <br>
 &ensp; Input files: *PDB2Uniprot.csv* ; *Kd_PDB_list.csv* ; uniprotkb_database_HGNC_2024_02_28.tsv <br>
 &ensp; Output files: Yeast_Kd_literature.csv ; Human_Kd_literature.csv <br>
+## Estimating and benchmarking Kd values from Mass Spectrometry 
+**Methods section "Estimating protein-protein interaction dissociation constants" and "Validating estimated dissociation constants using values from literature"**
