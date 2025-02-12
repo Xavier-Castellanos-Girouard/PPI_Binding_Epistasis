@@ -56,7 +56,7 @@ Calc_Kd_HumanYeast.R <br>
 &ensp; Output files: Human_Kd_Est_vs_Lit.csv ; Human_Estimated_Kd.csv ; Yeast_Estimated_Kd.csv ; Yeast_Kd_Est_vs_PCA_Kd.csv <br>
 ## Predicting GI matrix from PPi binding data
 **Methods section "Reconstructing a GI network matrix from a PPI binding network"** <br>
-GI Matrix Reconstruction.ipynb *Will eventually be changed for a .py script* <br>
+GI Matrix Reconstruction.ipynb (*Will eventually be changed for a .py script*) <br>
 &ensp; Input files: *Yeast_Kd_GI* <br>
 &ensp; Output files: Kd_inferred_GI.tsv <br>
 <br>
