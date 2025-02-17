@@ -13,8 +13,8 @@ import re
 from collections import defaultdict
 
 ## Set directories
-data_folder = '~/Desktop/Cell_interactome_stoichiometry/Yeast_Epistasis_Stoichiometries/Second_Run/Python_GI_Network_Formatting/data/Costanzo_GI_raw/'
-output_folder = '~/Desktop/Cell_interactome_stoichiometry/Yeast_Epistasis_Stoichiometries/Second_Run/Python_GI_Network_Formatting/data/Costanzo_GI_processed/'
+data_folder = './data/GI_data/'
+output_folder = './results/'
 
 
 source_folder = data_folder
@@ -23,6 +23,9 @@ datasets = ['NxN','ExE','ExN_NxE']
 
 
 #### Load all 3 datasets ####
+
+source_folder = data_folder
+datasets = ['NxN','ExE','ExN_NxE']
 
 costanzo_2016 = {}
 for dataset in datasets:
@@ -227,9 +230,6 @@ costanzo_2016_longer['strain_array'] = costanzo_2016_longer['strain_id_array'].s
 costanzo_2016_longer = costanzo_2016_longer.drop('strain_id_query', axis = 1)
 costanzo_2016_longer = costanzo_2016_longer.drop('strain_id_array', axis = 1)
 
-# Export Dataframe. Some duplicates remain when ORF is used both as array and query 
-costanzo_2016_longer.to_csv("../data/Costanzo_GI_processed/costanzo_2016_longer_withReps.csv", index=False)
-
 
 ## Remove duplicate ORF pairs by keeping the one with the lowest p-value
 
@@ -243,6 +243,6 @@ costanzo_2016_longer['ORFs_asSet'] = costanzo_2016_longer_asSet
 costanzo_2016_longer = costanzo_2016_longer.drop_duplicates(subset=['ORFs_asSet'], keep = 'first')
 
 costanzo_2016_longer = costanzo_2016_longer.drop('ORFs_asSet', axis = 1)
-
-costanzo_2016_longer.to_csv("../data/Costanzo_GI_processed/costanzo_2016_longer_withoutReps.csv", index=False)
+outputfile = output_folder + "costanzo_2016_longer_withoutReps.csv"
+costanzo_2016_longer.to_csv(outputfile, index=False)
 
