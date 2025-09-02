@@ -1,11 +1,11 @@
 ## This Directory contains all the primary datasets directly taken from literature.
 
 ### The following files are too large for storage on GitHub:
-Genetic_Interactions/SGA_ExE.txt
-Genetic_Interactions/SGA_ExN_NxE.txt
-Genetic_Interactions/SGA_NxN.txt
-Genetic_Interactions/GI_Horlbeck.xlsx
-Mass_Spectrometry_Interactomes/preprocessedProteinDataForCorrelation.txt
+Genetic_Interactions/SGA_ExE.txt <br>
+Genetic_Interactions/SGA_ExN_NxE.txt <br>
+Genetic_Interactions/SGA_NxN.txt <br>
+Genetic_Interactions/GI_Horlbeck.xlsx <br>
+Mass_Spectrometry_Interactomes/preprocessedProteinDataForCorrelation.txt <br>
 
 ### The SGA data can be downloaded from:
 https://thecellmap.org/costanzo2016/ 
