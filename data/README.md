@@ -16,7 +16,6 @@ https://thecellmap.org/costanzo2016/
 ### The Mass Spectrometry Data was requested directly from the authors of Michaelis et al. 2023 (https://doi.org/10.1038/s41586-023-06739-5)
 
 ### The contents of the following directory for the PDBbind database were also too heavy:
-PDBbind_vs2020/PDB_files/
-
-### This can be downloaded from the PDBbind website: http://www.pdbbind.org.cn/download.php
-### The "Protein-protein complexes" dataset from PDBbind v2020 was used.
+PDBbind_vs2020/PDB_files/ <br>
+This can be downloaded from the PDBbind website: http://www.pdbbind.org.cn/download.php  <br>
+The "Protein-protein complexes" dataset from PDBbind v2020 was used.  <br>
