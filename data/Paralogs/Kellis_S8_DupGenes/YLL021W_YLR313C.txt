@@ -1,0 +1,432 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_2150       ATGGTAACAAGCAAGTCAGATCTATCT-ACAGACCAGAGGGCTCAGCTTTACACTTACTT
+YLL021W         ATGGGTACGT-CAAGCGAGGTTTCTCTCGCACATCATAGAGATATCTTCCATTACTACGT
+YLR313C         ATGATTAGCTCAGAATTAACGAATGAT--CAAATCATAGACCTTATATCGGATTATAAGA
+                ***   *      *   *        *  ** * ** **   *    *       **   
+
+Kwal_2150       CTGTGAACTGAGAGACTTCTTCCAGATAACGGGTGCCAAGCACGATAGATCAAGTTCCGC
+YLL021W         CTC---ACTGAAGACTTTTTTCGAGGTGACTGGCGAAAATCGTGACAGGTCAAATTCGAC
+YLR313C         ATT-----TCAAAAGAATTATAGAGGCCTCTGTACCAGAAGATGATAGAAGAAGGAACCA
+                 *      * *      *  *  **    * *      *    ** **   **       
+
+Kwal_2150       AAGGGCGCAGAAAGCGAGGTCCAAGCTTCTGAAGTTATATCCATCGCAGTTTTTCGAATT
+YLL021W         ACGAGCTCAAAAGGCCAGAGCCAAGCTGTTGAAGCTATCTTCTTCGCAATTTTACGAGCT
+YLR313C         AAACCGCCAAAATAGAAATAAAGACCTGACAAAATTGTCGAATGTACAATTTTGGCAACT
+                *      ** **    *      * **    **  * *        ** ****   *  *
+
+Kwal_2150       GAGTACAGATGTGCATGACGAACTTCAGCGTCGTATCGACGAAAACCAAACCCAGCCCGA
+YLL021W         GAGTACAGACGTGTCCGATGAGCTGCAGAGGAGAATCGGTGAAGATGCTAACCAACCAGA
+YLR313C         GACGACTGATGTCAACGATGAATTGATGAAAAG-ATTGACAGATTCGGGTGCGG------
+                **  ** ** **    ** **  *   *    * ** *    *        *        
+
+Kwal_2150       CCATTTACTGCCCAAAGACTCATTCCACGTTAAGCGGAATCAAGCACGTCAAAAGCTGGC
+YLL021W         TTACCTTTTGCCGAAGGCAAATTTCCACATGAAAAGGAACCAGGCTAGACAGAAACTGGC
+YLR313C         --ATGCATCACTAAATG---ATCTTGATCTGAAAAGAGGTAAAGCACAATCTAAACTGTC
+                  *       *  ** *      *  *  * **  *     * **       ** *** *
+
+Kwal_2150       TAATTTATCGCAATCTAGATTCAATGACCTCGTGGACGATATTCTGTATGAAATCATGAG
+YLL021W         CAATCTATCACAAACTCGATTTAATGATTTGTTGGACGATATCCTTTTTGAGATCAAGAG
+YLR313C         TCGATTGAAGGACGCGAAGTTCCATAAATTGATTCTTGATATTTTCACGGAAATTGAAAG
+                     *     *  *    **  ** *  *  *    *****  *    ** **    **
+
+Kwal_2150       AAGGAGCTATCATGAGCCAGCGGAGTCTGGAGATAAGTTACGGAACTCCGCAGCCACTGA
+YLL021W         AAGAGGGTTCGACAAG-------GATTTGGATG------------CTCCACGGCCCCCAT
+YLR313C         GAGAAACTTACATCA----------TTTGGATA--------------TGGGGACGCATAA
+                 **    *   *  *          * ****                      *      
+
+Kwal_2150       CACTCTTTCGCAGTCCAAGAACAGCAGTATCATCGGTTCTGAAGGTCAAGAAGATTTAAC
+YLL021W         TAC-----CGCAGCCGATGAAA------------------------CAAGAGG--TCAGC
+YLR313C         CAA-----TGGGTTAGACGAGG---------------------------GTGATCTAAAT
+                 *       *      * **                             *     * *  
+
+Kwal_2150       AAAGAGAACAATTAAGCCTGAAGGGCTTCAGCCCGACGAAAGTTTGTCTCGAAATGTGGA
+YLL021W         AAAGACAGCGATGATACTGCAAGAACATCCAC------AAATTCTTCCTC----TGTGA-
+YLR313C         TTCTATTTAAATGACACATTATTTGAATCCTTCAAAATAAACGATGATTT----TATGAG
+                    *     ** *  *   *      **         ***   *   *     * **  
+
+Kwal_2150       AAGCCCTTCGAAAATCACCCCAAATGCCTCAGTGCAAGCTTCACAAGTAATTGCTAAGAA
+YLL021W         --------CTCAAGTAGCTCCAAACGTCTCCGTACAACCTTCTTTGGTCATTCCTAAGAT
+YLR313C         --------CGTGAATGGTATTATA----TCCATTGAAGTCTTCCGAGAA----TTAAAAA
+                        *   * *      * *    **  *  **   *     *       *** * 
+
+Kwal_2150       GGCTTCCATAGAATGGAGTTCCGATGAGGAAGAAGAAGACAATTTGAACAAGACAATGTC
+YLL021W         GGCATCTATCGATTGGTCTTCTGAGGAAGAAGAAGAGGAGCAAGTAAAGGAGAAGCCAAA
+YLR313C         CTCAATTTACACTTTATTTTCAAAACACGCTCCATCG----AATTGATCCTGTGGATACC
+                  *          *    ***  *  * *    *       *  * *    *        
+
+Kwal_2150       GCCATCAGGATATGACGAAACCAGTAGAGCATCGGAACCTAAAGATGAAGCCTCACCTCT
+YLL021W         TGAACCGGAGGGAAAACAAACAAGCATGG-ATGAAAAGAAAGAGGCTAAACCTG--CTCT
+YLR313C         ACCACCACACGCCTGCCGATTCTGCTTGAGACTATAATTAAGATAGCAAAGTTG----AT
+                   * *            *    *      *    **   * *    **   *      *
+
+Kwal_2150       TTATGCTACTTTTCAAAATTCAGAACATGATATTAGTGATCAGAGCGTC-TCAAATAAAG
+YLL021W         AAACCCCATAGTTACAGATTCTGATCT--GCCTGACTCCCAAGTGC-TC-GCTCGTGATA
+YLR313C         AGGCGAT-CTCTTACCTGTCCTATCATCAGTTTCACTGCAAAGTTCTTTAGAAAACGAAA
+                           **     * *           * * *    **  * *         *  
+
+Kwal_2150       ATACACCAGAGATTAGCATAGGCAGGAGTAAAGTCATAGGGGCTTCTCCACTAAGCTCCC
+YLL021W         TCACATCAA----TGGCAAGGACTCCAACAACGACGCATAAAAATTACTGGGACGTTAAT
+YLR313C         TAGTATACT----TAAAGAGTGCTTTATC--TCATGCTATCACTTCAACAAGATATT---
+                    *        *        *   *                 *       *   *   
+
+Kwal_2150       ACTTCTCCGCGCGGGAAGAAACGAACAATGAAAGTTTGGAGGAGGGAGGGTCCCATGACA
+YLL021W         GATTCTCC---------------AATTATCAAGGT-----AGATAAAGATATCGATAACG
+YLR313C         --TTCTC----------------ACATATGGGGACCT--AATACCACGAATTGTAGCTCA
+                  *****                *   **             *    *      *   * 
+
+Kwal_2150       GACATGAGACTCGTTCAGAAGCAAGTGAGAAATTTCCCCCAGAGACTCCACTGTCCGCCT
+YLL021W         AAAA-GGGTCCCG------AACAGTTGAAGAG-----CCCTGAAGTACAACGGGCTG---
+YLR313C         ATCATCTATTTCG----GAAGTGATTTTTGCGTT---CTGCAATATTGCTCAGATTG---
+                   *       **      *     *           *    *       * *   *   
+
+Kwal_2150       CATTCGAGGCGTCCAAGAGGATTAGTAATAGCAGGAGAGATAGCGCAAGTACGAGTCATC
+YLL021W         ---------------AGAACAATAACCCTAACTC-AGAGATGG---AAGACAAGGTTA--
+YLR313C         ---------------TGAAGATCAAATCCACCTCACGTGATGATATATCACGCAATGAAG
+                                **  *  *     * *    * ***     *        * *  
+
+Kwal_2150       AAGGCCTGGATGACAATTTTCATGACAGAGTTAGTGAGGATTCTGCACAAATTCCCCTAC
+YLL021W         AAGAACTGACTGA----TTTAAACAGCGACTTA--------CATTTGCAAATT-------
+YLR313C         GAGAACTCAGTGA----TATCGAGGCAGGTATGA-----AACCGTTGAAGATT-------
+                 **  **   ***    * *       *   *                * ***       
+
+Kwal_2150       TTGCCGCTGGAGATCTGGATGATAATCGCTTTTCTCAGGAGCTGCCGCTTTATGCTAAAC
+YLL021W         --------GAAGATTTGAATGCTAA---------------GTTAGCATCTTTAACCAG-C
+YLR313C         -----ATTGAAAAAGTGAAAAATGAGAAAAACGGTAAGGATATATCATCT----CTGGGT
+                        * * *  ** *   * *                 *  *   *    *     
+
+Kwal_2150       AAGAATCAAAAGAGCAAAGTAGTATCCAGATACCTCAGGGGATTGAATCTCAAGAGTATA
+YLL021W         GAGAAGGAAAAGGA-GAAGAAGGA---AGAGA----AGGAGGAAAAAG---AAAAGGAAA
+YLR313C         GATAGCGGTAGTACTGCTGTTAGTTTTCCATCCTCTGGTAAGCCCATT----ACAAAAAA
+                 * *     *        *          *       *       *      * *  * *
+
+Kwal_2150       ACAGTCCCCAAAAGAAGACTGGGCCATTACAATTTATAGAC-TCAAGGAATATGGCACCT
+YLL021W         AGAA--CTTAAAGATTAACTACACCATTG--ATGAAAGTTT-TCAGAAAGAATTGC---T
+YLR313C         ATCGGACATGCCAGT-GGTTGTAGCATCGCCATCAATTTCCATCATAGAAAAATCTG--A
+                *     *            *    ***    **  *      ***   *  *        
+
+Kwal_2150       GTCATTCCCGAGGGACTTGAGGGTTCACGACAGTTCCTTCCGAATGCTGCTGCAGCACCA
+YLL021W         GTCATT------AAACTCTCAAATCGGTGAA-----TTATCAATTGAGAATGAAAATTTG
+YLR313C         ATCTTC-------TATTCGAGAGAGTGGGAAG----GTACGAAATAATAC-----ATCTG
+                 ** *         * *           **       *    * *               
+
+Kwal_2150       ACTCCGACACCAGCAGGTTTGGATTCACCTGTTCATTCGAATGGCAAT-TCGAGAATGGC
+YLL021W         AAGCAGAAAATTTCAGAATTCGAACTGCATCAAAAAAAGAATGACAAC-CATAATGATTT
+YLR313C         GAG-AAACAAACTTAGCGTCTGTGTCGCCGTTAAAAAACACTAAGAATTCTTCAAGAATT
+                      * *     **  *  *     *      *    * *   **             
+
+Kwal_2150       AGAGTTCAGAAACAGAGGTTCGATCAAAAGGGCTTCGTTGGATCATGAGAATAGTA-AGC
+YLL021W         GAAAATCACTGAC---GGTTTTATTAGCAAGTACTCTTCTGCCGATGGGCTCATTCCAGC
+YLR313C         ACGAGTGAGCCAT-----CTCCGCGAGAAGGTTTGCCTCTGAAAGTTGTCTCG----AAC
+                     * *   *       *     *  * *    * *  *    *           * *
+
+Kwal_2150       GCGAGATCGAGGTTCTTATGGCCGAAGGCACGAAAATGGATTTGAGAATCACAGAGCTAG
+YLL021W         TCAATAC----ATCTTAAACGCTAACAACTTGATAATTCAATTTACTACTA--GGCTTTC
+YLR313C         TCGAGAA-----GTCCAAGTCCTCAAGGTAACACATTGCCGCTAATTGGTA---AATTTC
+                 * * *           *   *  *       * * *     * *     *      *  
+
+Kwal_2150       AGCAGGAGAATCATTCT--CTCTCCTCAACGATTTCTGACCTACAAAACAACGTCAA---
+YLL021W         CGCAGTACCCATAGGCG--A-CTCCACGGCAATTTCCCATC---AAATTGGCGAAGA---
+YLR313C         GGCAGGATTATCAGGCATCACCTCCGAAGAAAGTTATCACTAAACCAGTGGCAGAAACGG
+                 **** *     *  *     ****      * **   *       *    *    *   
+
+Kwal_2150       ----GACGTACAAGGATGAGAATCAAGCCCTCCAAAAGCGTCTTGAAATCGTCAACAAGG
+YLL021W         ----GTTATTTCAA-ATATTATCCCAGTTATCGAA------CCTAATCTC-CCAGC----
+YLR313C         CGAAGCCGTATGCAAATATTCCGCCAGCTGCAGAC----GTACTTTACTCGCCAAC----
+                    *   *      **      * **      *         *    **  ** *    
+
+Kwal_2150       ATCTTATAACTGCAAAAACACAAGTGAAAGCACTAGAGTCAAAGCAAGCTATAACTAGGG
+YLL021W         ----TATTACTATCGGCCGACCTATTACAGTACAAAGATCAGGTCA---TTTTACTGAAG
+YLR313C         ----CGTGACCAAAATGAGGAAATTCAGAGAGAAAGTGCAGAAATTTGCTCCCAACTCTG
+                      * **              * * **    *              *   *     *
+
+Kwal_2150       AACCTATCAATAGTGTTACTGATGACGGTCACAAGCAGCAGTTTGCTTCACTAACTAATC
+YLL021W         G---CATCA------TTATCGCATGCGATCACAT-CGATAAGATATTTCTCTGTTTA---
+YLR313C         G---TCTTG-------GATTAAGAATATCTACTT-CAGAAGAAAACTTGAATAATTC---
+                      *          *            **   *   *      **   *   *    
+
+Kwal_2150       AGCTTGGATCACTATCGGTTGAAAATGAAGAGCTGAAACAAGAGGTCGCAGAGCTTGAGT
+YLL021W         ----CGGTCCCGTATTAATTCCGAAAATAACTGTGCAAGCTGCTGTTTCAGAGGTTTGTT
+YLR313C         ----TGATGTCAACTCAACCACGCA--CAACGCTAACATAAATAACCTCGTCGAATTTGT
+                     *        *         *   *    *   *          *   *  *   *
+
+Kwal_2150       TAAAGATAAAGGGCTTGAAATCTTTCAACCACAACAAAGATGGTAAGCCGGTTAGAACTG
+YLL021W         TTGCCATG-------TGTAATCTAATTGATTCAGCGAAAATAA-AATCCGATTCAAATGG
+YLR313C         TGAGAGTAAATCAATGGTTGTTC--TTCCTATGGCAGGCAGGGCATTTTGA---------
+                *     *         *   *             *    *    *    *          
+
+Kwal_2150       TCACAAAGTCAGAAATGGCAGAGGACAGCGAACATGGGCAGGCAGGAGTTTATTGTTCTC
+YLL021W         TGAGAGCACCACCTCTAATGAAGGTAACCGA-------CAGGTATTAG---AATATTCTT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CCCTGAATAGATTTACGTCTCCGGAGGGAATCATTCCTCTCAGCTTGGTCGTGGACTTCA
+YLL021W         CACCAACTGCTACCACCCCAATGACGCCAACT-TTCCCCTCGACTTC----TGGAAT---
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       ACTCAGAGATAGAGCAAATATTCAGACATATGCACGATGATAAGAAAAGTGCATCCTTCG
+YLL021W         ----AAATATGAAGAAGGGGTTTATAAACCCA---------AGAAAACCAGCATCTTTCT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GCGATATCATCTTTGGGGACATTGCTCGCATAAGCGATATTGTGCACAACATTATTAAGT
+YLL021W         TGAATGATGTGGAGGAAGAAGAATCTCCAGTCAA-GCCATTGAAAATTACACAA--AAGG
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       TAGTTGACGTTCCAGACAACCAAAAGCAAATCTTGGTTATAAAGGCTTCACTTTCTCACG
+YLL021W         CAATTAACAGTCCGATCA--TAAGACCGTCATCGTCTAATGGAGTTCCAACAACCTCAAG
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CCA--TTACAGCGACACGCTTCTTCGCTCTTTACCATGAGATTTTGCCTTTTGTTACAAT
+YLL021W         AAAACCTTCAGGAACGGGGCTATTTAGT-TTAATGATTGA--TTCATCAATTGCTAAGAA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       TGAAAGCGCTCTGTCTAACGTCGGTTTCGCTGTTTGCAGTCTTCTCGAAGTTGTTAAAAT
+YLL021W         T---AGCTCCCA---TAAAGAGGATAATGATAAATAT-GTCTCGCCCATAAAGGCAGTAA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CACTGACCTCCAGCCACAACAAGCGACTGATGAAAGGCAGACACAATCCACAAATCCAAA
+YLL021W         CATCGGCCTCCAATT-CTGCAAGTAGC------AATATTTCCGAAATTCCTAAACT--AA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GACACCAACGACGAGTCGTACCAATTTTTCGTTCGGTGCTTCGGACGCTGAATCCATTGC
+YLL021W         CACTACCTCCACAAGCCAAA---ATCGGTACTGTTATTCCACCGTCAGAGAATCAAGTTC
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       ACCATTTCAAGACCCTCGCAATGCTTCAGTGCA-TAAGGTTGAAGATCCAGTAAA-GATG
+YLL021W         CCAATATTAAAATCGAGAATACAGAAGAGGATAATAAAAGGAGTGACATAACAAATGAAA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       TCACCGGTAAAGC--CTCTCAAAATTACACAAAAGGCCGTCACCAATTTTGC---GCCTT
+YLL021W         TCTCTGTTAAACCAACTTCTAGCATTGC-TGATAAACTGAAACAATTTGAGCAAAGTTCC
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CTAAACCCCCAACCTCGACTCGAAAACCTTCGAGCACCCTGTTCACTTCGATGCTGAGCC
+YLL021W         GAAAAGAAATCATCACCAAAGGAAAATCCTATAGCAAAA-GAAGAAATGGATTCAAAACC
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CTAGTCTAAGCAATAA---TAGCTCGCCAAGAAATTCGGCGTTTTTGAATCTACGTTCAA
+YLL021W         AAAA-CTATCCAATAAATTTATCACTTCAATGAATGATGTGTCCACAGATG---ATTCAA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GCTCTAGTGGCAATGCCGATGAAAAAGATCTTATTACTGCTGAGAAACATAATGAGGCTC
+YLL021W         GCTCTGATGGTAACGAAAATGACGA---------TGCAGACGATGATGATGATTTTACCT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CTGCCAACACCCAAGGACACGATGATAGTACGAGTGCTTCGAAAAGCAGCGGCGAGCATC
+YLL021W         ATAT-GGCATTGAAACAAACAATGAAGAGAGAAGG--TTCAAAAATT---GAAAAAAATA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       TTGACTCTAGTGCACCCCAAAGTGGCAAAAATTCTGGAAACAAACCGCATTCATCAAATG
+YLL021W         ATGACAGCAAACTACCTGCAAATATAGTGGAACTTG---ATTTACATGAGTCACCGGAGT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GCGCAAACTCTCTGAACTCGACCGTCTTGCAAAAACAAGTCGTTCCTACCAATAATTTGT
+YLL021W         CCGTGAAGATT---GAATCTCCTGAATCGATAAAGGAAATCACGTCATCTGAAATGTCTT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CGGTTAGTGCATCCCAGTCATTCGACTCGAAGAAGGTCTCGGGTGGATTTAAGAACGATG
+YLL021W         CAGA-AATGC---CAAGTAGTTCGCTGCCTAAGAGATTAGTAGAGGATGT-----TGAGC
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       TGTCAGGAGCGCCCAATGACAATCGTCGTATTCATAACTTGACTCTTCATGACTTTTCTG
+YLL021W         CTTCAGAAATGCCAGA-GAAGGGCG-CATCTGTAGAATCAGTCAGGAAGAAAAATTTTCA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       ATGATGACTCCATGGACGAAGAGTACGGGAAGAGAGACGACAACAGCAACACAACTAGTG
+YLL021W         AGAACCACTTGGTA-ATGTCGAATCTCCGGATAT-GACGCAGAAGGTCAAGTCTTTGGGT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       ATGACGATGTGACTTATCAGGCCCTGAAGCAGAACATGAAAAAAAACCACAAAGCAGCAA
+YLL021W         ATGACAGGAAAGGCTGT-AGGCCCAGAATCAGATAGTAGGGTCGAATCTCCGGGCATGAC
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       TGAACCATGAGCACAAGCACGAGCACGAGCAAGATAAGTCGAAATTGGCAATGCCAGAAT
+YLL021W         AGGACA--GATTAAATCTTTGAATATG-GCAGGAAAAGTTGTA---GGC----CCAGAAG
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       TACCTGGTAAAATTGCGGTCCCAAAGACTCGGCCACATCAAAGCAGTCCTGAAGATTTTC
+YLL021W         CAGATAGTAGGGTCG--------AATCTCCGGGCATGAAAGAGCAG--------ATT---
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CTTCAAAATCTTATAGCGAGACAAGTGAGGATATAGTCGACTCGAACAGAGAGTCGCATT
+YLL021W         -----AAGTCTTTGGGTATGACAGGAAAAATTACAG----CTCAAGAATCAATCAAGTCC
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CCAAACTTGACCAGGATGTCATCAAATCGCCTCAAAAACAGAATTTGTCAAACGAAAAAA
+YLL021W         CCGGAAGCGGCTAGGAAGTTG-------GCGTCATCAGGAGAAGTTGACAAA--------
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CATCGAGTGGTGACTACTCGCCATTCCGCTTTGAAAAGTATGGAGGCATGACCAGTACCG
+YLL021W         -ATTGAAT---------------------CTCCAAGAATGGTAAGGGAAAGCGAGTCCTT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       AGTCACCATCTAAGGTAAAAACCAACGAGGCTATCAAAACTAGCAAATCTGGAAGTGAAG
+YLL021W         GGAGGCAGT---AGGCAATA-----CTATCCCCTCAAACATGACAG---TGAAAATG--G
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       AATCCCCGCGTGAGGAGAATGCAGCGAGCTCCAGTCTAGGATTTCCTCTGAAAGAAGAGT
+YLL021W         AATCCCCAAATTTAAAGG-------GAAATACTGTGTCTGAACCTC-------AAGAAAT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CGAAGGAGGCTCCGTTGTCCGAAAACTCGTACAATGACTCAAAGAATATCAGCTCACTGT
+YLL021W         AAGGAGAGACATTGCCTCCTCAGAGCCGATA----------GAGAATGTTGACCCCCCA-
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CTGCAGGTCAGGGTATTCAAGCTAAGAATGCGTTGACAGAGAATTTTGCTTCGAAACAAG
+YLL021W         ---------AAAGTACTAAAA--AAGATTGTCTTTCCAAAGGCTGTT-------AATAGA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       ACTTGAACAAGGGCACGCAGAGCAAGATTTCTGCCTTAGGTTCGGATGAGCAAAACCCCG
+YLL021W         ACTGGATCACCAAAATCAGTCGAAAAGACTCCATCTTCAGCTACACTGAAAAAGAGC---
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       AGACTTTAGAGAAGGAGCAAACTGGACCGCGCGAAACCGTTTCCAAAGGGGCAGAAGATG
+YLL021W         GGGCTCCCAGAACCGAATA-----------GCCAAATTGTTTCTCCTGAATTGGCAAAA-
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       TTAATTCATCTAAAATAGTGCCCGTTGAAGGTGAAGGCACCAAGGTAAACGGTAAAGTGA
+YLL021W         --AATTCACCTCTAGCA----CCGATAAAGA--AAAATGTCGAGTTA--CGAGAAA----
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CCCCTAATGCCTCTAAAAATAAGGTCGAGAACACAGTGCAGC-AAAAAGTTGCGGTGGAG
+YLL021W         ---CTAATAAACCACATACTGAGACTATCACTTCTGTGGAACCAACAAACAAGGATGCCA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GAGGTGCCTAAGGTGACGCAGGT---GCCCAAACTTTCAGACAACAAAACGTTGCGCGTT
+YLL021W         ATACTTCTTGGAGAGACGCCGACTTAAACCGTACGATCAAACGAGAGGAGGAGG-ACGAA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GTTCAAAGTAACAATGAACCACCTTCTCCTGAAGATGGGCAATTTATGGACGCCTCAGAG
+YLL021W         GATTTTGATAG-AGTGAACCACAATATCC---AGATCACTGGTGCATATACG------AA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       AATCCAAAGCGCATAATCGGTGCTCCAGACATTCCATCGCAGGCAGGTAACGTCATCAAA
+YLL021W         AACTGGAAA-----AATTGAT-------------TATCATAA------AATACCTGTTGA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       TCTTCAACCACAGGGAAAGAAGCATCTGTCACACCTACTCTCGAAGATAGCGAATCATCT
+YLL021W         TCGTAAA--GCAAAAAGCGAAGCAGAAGT---GCATACTTCCGAGGAAGA----------
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GCTGTCAATGGAAACGTCAAATCTTCCGGTGATATAGAAGGCCACCTCTCGCCAGATGAA
+YLL021W         --TATTGATGAA----TCAAATAAT--GTTAATGGAAAAAG--AGCTGATGCCC----AA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GAAAGCTTCGAACCTTCAATTGCGAGTAGGGGTACCGAGCTCACGGAACCGGTTAAGATA
+YLL021W         ATACACATC---------ACTGAAAGAAAGCATGCT---TTCGTAAATCCAACT------
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GAAAAATACCAGGATATCTCAAAAAATCCAAAGCCAATGCTAGCTCCAACGGTCATCATG
+YLL021W         GAAAATTCACAGG------TAAAAAAGACGA-GCCA---------CTCACCATTTTTAAA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       AATTCAAATACTCCACAGCAAATACACCAGACCGACTTCAAAAGTACTAAGAATCAATCC
+YLL021W         CAGTAAACCGGTTCAATACGAGAACTCAGAGTCGAA--CGGCGGCATTAACAACCACATA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GTCTCTAGCGGTAATGAAACGTATCCAGTAAAAGCAGGAGAGGAAAGACTTTCGTCTAGT
+YLL021W         AAGATAAAAAATACTGGAGAAACTACGGCA----CATGACGAGAAACATTATAGT--GAT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GTTGATGAGACAAAACCTTTGATAGTTAAAAGAGAATTTCAATCGGTGCCAGCAGAAATT
+YLL021W         GATGATGATTC-----------TAGCTA----------TCAATTTGTTCCCATGAAA---
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GGTATGACTAATGGTAGCAACTCTGGTCGCAGTCTAGCTGTTGCGGGAAAGCCACCCGTT
+YLL021W         --CATGAAGAACAAGAACAAG---------AACAAAACAGAAGTGAGGAAGAGG------
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GCCGCCCCAAACGCCAAAGGAGAGACTGGAAATGACTATGAGGAAGATCTTGATTTTGAC
+YLL021W         ----------------AAAGTGAAGATGACGATGAAGAGGAAGAAGACAGTGATTTTGAT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GTGGACAACTTTGATATTGAAAATCCAGATAATACGCTTTCGGAACTACTGCTGTATCTA
+YLL021W         GTGGATACATTTGACATTGAAAATCCGGATAATACACTATCAGAGTTACTATTGTATTTA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GAACATCAAACAATTGAAGTTATCAGTACGATACAATCTCTACTGACATCTATCAAGCAG
+YLL021W         GAACATCAAACAATGGACGTCATATCCACGATTCAATCGCTTTTGACATCGATCAAGAAA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CCACAAGCATCCACTGGGGAGCTGCGCAGAGGTTCATGCGCTATAACCCAGGTGATTGCA
+YLL021W         CCACAGGTGACGAAGGGTAATTTGAGGGGAGAATCGAATGCAATCAACCAAGTCATAGGT
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CAGATGGTGGAAGCAACCTCAGTGTCCATGGCCCAGTCACGTAACGCTCCATTAAAGGAG
+YLL021W         CAAATGGTGGACGCTACTAGCATATCAATGGAGCAAAGCAGAAATGCCAATTTGAAGAAA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CATGGAAATTGGGTCGTACAAAGCTTAAAAGATTGTCAAAGAAGAATGACCACACTCTGT
+YLL021W         CACGGTGATTGGGTGGTGCAAAGTCTAAGAGACTGTTCGCGTAGAATGACAATTTTGTGC
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CGATTGAACAAGGACGGTTCCATCGAGTTTGACGAAAGCGACAATGACTACGCCGATAAG
+YLL021W         CAATTAACTGGCGATGGAATACTAGCGAAGGAAAAGAGCGATCAAGATTATGCTGACAAA
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CACTTCAAACAGCGCTTAGCTGGAATTGCATTTGATGTTGCTAAGTGCACCAAAGAGTTA
+YLL021W         AACTTCAAACAGCGGTTGGCAGGGATTGCGTTTGATGTTGCCAAATGTACAAAGGAGCTG
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       GTAAAGACAGTTGAGGAGGCTAGTCTTAAGGAAGAGATCGAATACCTCAACTCGAAAATG
+YLL021W         GTAAAAACTGTAGAAGAGGCAAGTTTGAAGGACGAAATAAATTATTTGAATTCGAA---G
+YLR313C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2150       CTAAGATAA
+YLL021W         TTGAAGTAA
+YLR313C         ---------
+                         
