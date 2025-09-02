@@ -1,0 +1,157 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_16278      ATGGCGAAGATATTCACGCTAGGTGTTTCAAGCGTGATTACGGTGGTGCAATTTGCATCG
+YFR012W         ---ATGCTAAATTATAAATTGATTTTATTGTTTTCCTCT---TTCCTACAATTAATCTCT
+YOL019W         ATGAAGAAAAATTCTTCGGTAGTTTTCTTCCTTGTGGGT---CTATCACAATTCGTCACT
+                     *   *  *      *   * * *          *    *    *****     * 
+
+Kwal_16278      ATGGCCTTCCTGATAATTTGTTGCATCACAGCCCCAGTTTTCAAGCAGATCGGGCTTTCG
+YFR012W         TTTTCTGGCTTTATGATATGTTGTTTAACTTCACCAATAATTAGAAACTGGGGGCTGGCT
+YOL019W         ATGGCGTTTCTCATTATCGGATCCATTACGGCTCCAATTTTCAAACAAATAGGCTATTCT
+                 *  *     * ** **  * *   * **  * *** *  * *   *    **     * 
+
+Kwal_16278      AAGACTGACGGTGTGGTTTTCGGTACATTTGGCTATTGCGAA-----AATGGCC----AG
+YFR012W         CAAGCTGCTGGAGTTTCATATGGTACCTTTGGTTACTGTAAAACTTTGAATTCTTTTTCC
+YOL019W         AAATATGATGAGATCACATACGGTACATTCGGCTACTGTAAA-----GAGGGCT----CC
+                 *   **  *   *    *  ***** ** ** ** **  **      *   *       
+
+Kwal_16278      TGTTCTACAGCACAGGCAAGCTAT--TATCCAGAG-CAGCTGGCGTCCAACG-------C
+YFR012W         TGCTCTCGAGTACGTTTAATATATAACACCTCGAAAGAAATATTACCTGGCCCTTCTCTT
+YOL019W         TGCTCAAAAGCAAGTTATAATTAT--CACCCCGAT-GAGCTATCAGACAGTGA------T
+                ** **   ** *      *  ***   * *  **   *  *                   
+
+Kwal_16278      ATC--TTGGAATATGAATTTTCAAGCACGCACAACTTTGGGTAAAATTTTGATTATTATG
+YFR012W         GAACGTTGGTGGCTGAGTCCTAAGGCAAGACATACAATAGGAGGACTTTTGATTTCGATA
+YOL019W         AGCAACTGGAAACTCAATAGCAACGCTAGGTCTATATTGGGGAAAATCATCTTTATCACA
+                      ***    * * *    * **  *    *   * **   * *  *  **   *  
+
+Kwal_16278      CCTGTTGCCGCAGGGCTCACCTTTTT------------TTCAATGATAGGGAACTT----
+YFR012W         CCGGTTGCTACATGTTTGACTTTCAT------------TTCTTTTGCACTTCCCTTGGTT
+YOL019W         CCCATTGCTGCTGGTCTTAATTTTTTGGGATTTCTTTGTACCATCATGAGCGTTTTATTA
+                **  ****  *  *  * *  **  *            * *  *          **    
+
+Kwal_16278      --CACCGCCCAATTCGGGTCTGTTGGTGCCAGAGGGGCTACTTTCAT------CATAAAC
+YFR012W         ATTATTTTTCTTTTTCAGACTGGAGGAACTAATGTCTCACTTATTAC------TTCCAAC
+YOL019W         ATTAACGTGCTATCCAGTGATAGAGTTGGTAGTGCGTCTGCCATCATGTTTTTTGTTAAT
+                   *     *  *       *   *     *  *   *     * *           ** 
+
+Kwal_16278      TTACTTCTGTGCATCATCGCATTTGCAGGATCTGCCTTGATGTGTGTTGTGACCTTCTTG
+YFR012W         GCTATATTACACATATTGACACTTTTATCAACTATTTTTGCATGCACCGTGATCCTGTTA
+YOL019W         TTGACATTTTCCACTCTAGGCTTTCTTTCTGCTTCTTTGATATGTATCGTGGTATTTTTA
+                       *   **   *     **       **   **    **    ***    * ** 
+
+Kwal_16278      CTGTTTTATCCCCATATGACATGGTGTTCCTGGCTTTTGATTCCTGCGGCGGCAATCAAT
+YFR012W         CT-TTGCATGCACCGTGATCCTGTTACAATTTCATCCTTATAC---GACTTGGTGTGGCT
+YOL019W         CTGTTTTACCCACATGTAACCTGGTGTTCATGGGTCCTGATACCAGGAGCTGCTTTATCT
+                ** **  *  * *      * ** *     *   *  * ** *        *   *   *
+
+Kwal_16278      TTGGTTTGCGTTCCTCTCACCTACGTGGCACATTCGATGGCCCCTG---CGAGTGATGAC
+YFR012W         G-GCTAACTGTTCCCT--GTTCCCTCTGCTCGTTATTGGCGTGCATTTTCTCAGTTTTAG
+YOL019W         CTACTAGTAATTCCTTTGATATTCTCAGCTTATTCAAGAAGCTCAGGCTCAAGGGATGAT
+                    *     ****         *   **   **         *     *      * * 
+
+Kwal_16278      GATGAAAGCATCGAAAGCGACGTAGGATAC-CACCAAGAAATGACT-GCGTTTAAGCAAC
+YFR012W         GTTTGATACGTCTGCGCAGTCAGACAGAAAACATAGCTAA--------------------
+YOL019W         GACGAAACCGAGGAACTGGAAGAAAAGGGCATGCTGCTGAATGACCCATATCTAAGTT-C
+                *    *  *         *    *               *                    
+
+Kwal_16278      CATCTTCGAGGGCTGAGAGCATTAACGGATATTATGACGGCCAT----GCGGGACTTGAA
+YFR012W         ------------------------------------------------------------
+YOL019W         GAAGTCCGGGAGATTCGA-TATCGACGCTGATAGTGAGGCCAACCTCCGTGGTGATTCAA
+                                                                            
+
+Kwal_16278      AAACCAGCATACCCAG--ATTTTTACAAAGGCCCTGATGTTGTCACTTCTACGACCTCAA
+YFR012W         ------------------------------------------------------------
+YOL019W         GAACGAATTTATTGGGTGACAATTTTAAGAACGGTACTAATATCACTGTT---GTCCCAG
+                                                                            
+
+Kwal_16278      ACTCTGGAACCACAGATTCAAGAGCAGGGCGTGAAAAGCCCATCAGTGAATTACAGATTG
+YFR012W         ------------------------------------------------------------
+YOL019W         A-TATTATTTCACACAATCAAGATCCGAAATTATCAAACATA-------ACCACTTCTAC
+                                                                            
+
+Kwal_16278      CACATCCAGTAATTAAGACGGCCTATGGGACTGCAGAGGTTGTAAGGCCTTCTGGTGATA
+YFR012W         ------------------------------------------------------------
+YOL019W         CACGTCTGATA-TTTCTACTTTCGATAAAGAAGCAAAGGACATGGAAAATTC--------
+                                                                            
+
+Kwal_16278      ATACTGAGAACGATTTTTCATTTGACACTGAAGCCCGCGCGGCCCAGCCTTATTCCGCGA
+YFR012W         ------------------------------------------------------------
+YOL019W         -------AAATGGTTCCGGACTTAATGAAGAAGAGGACGATGGCATGGCCTAT-----GA
+                                                                            
+
+Kwal_16278      TTGCAGGTCCTCAATCCGAGGAAAGTGCTTCCCTTGAACCAGGCACCCATAGCAGCTTTG
+YFR012W         ------------------------------------------------------------
+YOL019W         CAAAAGGAGGTCAACTTCAACGTATT-CTGTCATTGAA------AGTGAAAGTGGCTTGA
+                                                                            
+
+Kwal_16278      TGGCTCCATCGCGCAAGTACCGCGAACAATCCACTACCTCTTCTTTTTACTCTGAAGCCG
+YFR012W         ------------------------------------------------------------
+YOL019W         AAA-------ATGGGAGTGTTTCTAATAATTATGTGAGAAACAATGGTAG--TAACACCA
+                                                                            
+
+Kwal_16278      ATAACCGTGTTTCACGCCGAGACACCTTAGACACGGCAGACTTGAGACCCACTTCTGCTC
+YFR012W         ------------------------------------------------------------
+YOL019W         GCAACAATATAAACTATAAAGTTCCGCTAGGAAAAACGGAAATATCATCCAGTGCATCAT
+                                                                            
+
+Kwal_16278      TCA-ATCTTGAAGCTGATACCAAGAAAGAAAAATCAGGTAATGATGATGCCCTACAAAGG
+YFR012W         ------------------------------------------------------------
+YOL019W         TAGCGTCCTCAGACTACTCTC---AAAGAGAGGTCATACCGCACAGAAATCCTTCGA-GA
+                                                                            
+
+Kwal_16278      ATAATAGATGGTGCCATTCATGAAGACGATGAGGAGTTCATTAAGTTGCAAACCATTGAT
+YFR012W         ------------------------------------------------------------
+YOL019W         CTACTAAACGACA----TCATGGAGACC--------TCCTTCAATGAACCAAACGATAGC
+                                                                            
+
+Kwal_16278      CCAAGCGAAAGACCGCTTCTGGACGACGACGACGGAATTAAAGATGATGACTCGGACTTC
+YFR012W         ------------------------------------------------------------
+YOL019W         CACATCAACAGCATGTCCTCCTACAACGATAAAG--ATTCA--ACGTTGACTTCAATATC
+                                                                            
+
+Kwal_16278      ACGTCGGTTTCTCAGCGTGGCATCAACCCCAATTACATGCCACTCAATACTGGACCAGCA
+YFR012W         ------------------------------------------------------------
+YOL019W         ACAGAGAGGTGTCAATCCGGAAGTA--TACAATCAAATGCC--TCGAGAAACAGCCGCTG
+                                                                            
+
+Kwal_16278      CTCCAACAAA-ATAGATCAATACACCCTCCCATATCCCGGCCAGGCGCTCGTACTACAAA
+YFR012W         ------------------------------------------------------------
+YOL019W         GTCCTGCAAATATAAGGCCGTACGCTGGTC---AGCCACACCCGGCGCCATTAGTGTATC
+                                                                            
+
+Kwal_16278      TTACCCCTCTGTTCCGCTCGGTCGGACTTTCCCTCCGGAACAAGGGCACAATTCGCATCA
+YFR012W         ------------------------------------------------------------
+YOL019W         CCCAACAACGACTACAACCA--CAACAACAGCAACCACAGCAGCAATATCATCAATACAA
+                                                                            
+
+Kwal_16278      TCTACA--AAGAGGCTATGCCAATT--TTGAGAATGGGCCAGT-TCGCCAGAGAATGCAC
+YFR012W         ------------------------------------------------------------
+YOL019W         TTTATATCAAAGAACTACTCCTGCTGGTCCAGATCCTTCTAATGTTATTTTACAAAGCAA
+                                                                            
+
+Kwal_16278      CCTCACAAACCATATGGTGGTGGCCAAATGGCATCCCAGCAAAAGTCCCTGCATCCGAGC
+YFR012W         ------------------------------------------------------------
+YOL019W         TCCTTATTTCAACGTTGCCCCAAACCAA--GTGCCACAGCACAGAAATCCGGTACCAGGC
+                                                                            
+
+Kwal_16278      TACAGCCAGGGACGCTCCAATGCTTCCTTCCCCTCATATTCTAATTATACTACT-TCCGA
+YFR012W         ------------------------------------------------------------
+YOL019W         ----GTCGGTTTTGCTCCGAATCCTTTACCAAACCAAAGCCCGATAACACAAGGATATAA
+                                                                            
+
+Kwal_16278      GCTTCCGCCAGTAGGTGCGAGGGCAACTCAAAGATCCCAGGTTGATATGCATACTGCACC
+YFR012W         ------------------------------------------------------------
+YOL019W         GCCTGC-CTATAAGAGGAGAATGCAAAACAAAAA-CTTGCCCCGAGCTAC-TACTTCAC-
+                                                                            
+
+Kwal_16278      TTTACAAGCTCCACCATCCTCAAACTATAGACCCGCTTATAAAAAGCGTCTACCGAGGCA
+YFR012W         ------------------------------------------------------------
+YOL019W         TGAACAATCCTTAC-GGATTTAGGTAA---------------------------------
+                                                                            
+
+Kwal_16278      AAATGTATTGCCAGCCGCGTCATTGGCACGAGACGGTCCTTATGCGGGCATGATATAG
+YFR012W         ----------------------------------------------------------
+YOL019W         ----------------------------------------------------------
+                                                                          
