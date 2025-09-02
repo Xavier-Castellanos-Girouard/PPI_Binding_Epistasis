@@ -1,0 +1,127 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         ATGCAATTCAAGAACGCTTTGACTGCTACTGCTATTCTAAGTGCCTCCGCTCTAGCTGCT
+YDR055W         ATGCAATTACATTCACTTATCGCTTCAACTGCGCTCTTAATAACGTCAGCTTTGGCTGCT
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         AACTCAACTACTTCTA---TTCCATCTTCATGTAGTATTGGTACTTCTGCCACTGCTACT
+YDR055W         ACTTCCTCTTCTTCCAGCATACCCTCTTCCTGTACCATAAGCTCACATGCCACGGCCACA
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         GCTCAAGCTGATTTGGACAAAATCTCCGGTTGTAGTACCATTGTTGGTAACTTGACCATC
+YDR055W         GCTCAGAGTGACTTAGATAAATATAGCCGCTGTGATACGTTAGTCGGGAACTTAACTATT
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         ACCGGTGACTTGGGTTCCGCTGCTTTGGCTAGTATCCAAGAGATTGATGGTTCCTTGACT
+YDR055W         GGTGGTGGTTTGAAGACTGGTGCTTTGGCTAATGTTAAAGAAATCAACGGGTCTCTAACT
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         ATCTTCAACTCCAGTTCTTTATCTTCTTTCTCCGCTGACTCTATCAAGAAAATCACCGGT
+YDR055W         ATATTTAACGCTACAAATCTAACCTCATTCGCTGCTGATTCCTTGGAGTCCATCACAGAT
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         GATTTGAACATGCAAGAATTGATCATTTTGACCAGTGCTTCTTTCGGTTCTTTGCAAGAA
+YDR055W         TCTTTGAACCTACAGAGTTTGACAATCTTGACTTCTGCTTCATTTGGGTCTTTACAGAGC
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         GTAGACTCCATTAACATGGTGACTTTGCCTGCCATTTCTACCTTCTCCACCGATTTACAA
+YDR055W         GTTGATAGTATAAAACTGATTACTCTACCCGCCATCTCCAGTTTTACTTCAAATATCAAA
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         AATGCTAACAACATTATTGTTTCTGACACCACTTTGGAAAGTGTCGAAGGTTTCTCCACT
+YDR055W         TCTGCTAACAACATTTATATTTCCGACACTTCGTTACAATCTGTCGATGGATTCTCAGCC
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         TTGAAGAAGGTTAATGTTTTTAACATCAACAACAACAGATATCTAAACTCTTTCCAATCT
+YDR055W         TTGAAAAAAGTTAACGTGTTCAACGTCAATAACAATAAGAAATTAACCTCGATCAAATCT
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         TCCTTGGAAAGTGTCTCTGACTCTTTACAATTCTCTTCCAACGGTGACAACACTACTTTG
+YDR055W         CCAGTTGAAACAGTCAGCGATTCTTTACAATTTTCGTTCAACGGTAACCAGACTAAAATC
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         GCCTTCGACAATTTGGTCTGGGCTAACAACATCACTTTGAGAGATGTTAACTCTATTTCT
+YDR055W         ACCTTCGATGACTTGGTTTGGGCAAACAATATCAGTTTGACCGATGTCCACTCTGTTTCC
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         TTCGGTAGTTTGCAAACTGTTAACGCTTCCTTAGGTTTCATTAACAACACTTTGCCAAGT
+YDR055W         TTCGCTAACTTGCAAAAGATTAACTCTTCATTGGGTTTCATCAACAACTCCATCTCAAGT
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         TTGAACTTGACCCAATTGAGCAAGGTTGGTCAATCTTTGTCTATCGTCTCCAACGATGAA
+YDR055W         TTGAATTTCACTAAGCTAAACACCATTGGCCAAACCTTCAGTATCGTTTCCAATGACTAC
+                                                                            
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         TTATCCAAGGCCGCTTTCAGTAACTTGACTACTGTTGGTGGTGGTTTCATCATTGCTAAC
+YDR055W         TTGAAGAACTTGTCGTTCTCTAATTTGTCAACCATAGGTGGTGCTCTTGTCGTTGCTAAC
+                                                                            
+
+Kwal_12366      ---------------ATGATCGATGGTTTCAGCAAGTTGGAATCCGTCGGTGGTGCTCTA
+YBR078W         AACACACAATTGAAGGTCATTGACGGTTTTAACAAGGTTCAAACTGTTGGTGGTGCCATT
+YDR055W         AACACTGGTTTACAAAAAATTGGTGGTCTCGACAACCTAACAACCATTGGCGGTACTTTG
+                                  ** *  *** *   ***  *   * *  * ** *** *  * 
+
+Kwal_12366      GCCGTTGTCGGTAACTTTTCCTCTTTGAACTTGGCCTCTTTGAAGTCTGTCAAGGGTGGT
+YBR078W         GAAGTTACTGGTAACTTCTCAACCTTGGACTTATCTTCTTTGAAGTCTGTTAGAGGTGGT
+YDR055W         GAAGTTGTTGGTAACTTCACCTCCTTGAACCTAGACTCTTTGAAGTCTGTCAAGGGTGGC
+                *  ***   ********  *  * *** ** *    ************** *  ***** 
+
+Kwal_12366      GCCGACGTCGAGACCAAGTCCTCCAACTTCACTTGTGACGCTTTGAAGAAGTTGCAAAAG
+YBR078W         GCTAACTTCGACTCTTCTTCCAGTAACTTCTCCTGTAACGCTTTGAAGAAGTTGCAAAGT
+YDR055W         GCAGATGTCGAATCAAAGTCAAGCAATTTCTCCTGTAATGCTTTGAAAGCTTTGCAAAAG
+                **  *  ****  *    **    ** *** * *** * ********    *******  
+
+Kwal_12366      AACAACGGTATCCAGGGTGACGCTTTCGTTTGCAAGAACGGTGCCACTTCCACCTCTATC
+YBR078W         AACGGTGCTATTCAAGGTGACTCTTTTGTTTGCAAGAACGGTGCCACATCTACCTCCGTT
+YDR055W         AAAGGGGGTATCAAGGGTGAATCTTTTGTCTGCAAAAATGGTGCATCATCCACATCTGTT
+                **    * ***  * *****  **** ** ***** ** *****  * ** ** **  * 
+
+Kwal_12366      AAGTTGAGCTCTGCCTCTGGTA---CCTCCA--CTGACT-CTGAC------TCTGACTCT
+YBR078W         AAGCTATCCTCTACTTCTACTGAATCATCCA--AGAGCT-CTGCTACA---TCTTCCGCT
+YDR055W         AAACTATCGTCCACTTCCAAATCTCAATCAAGCCAAACTACTGCCAAGGTTTCCAAGTCA
+                **  *    **  * **          ** *      ** ***        **     * 
+
+Kwal_12366      TCTTCCAGTGGCAG---------------------------CAAGACT---------GCC
+YBR078W         TCTTCTAGTGGTGATGC---------------------CTCCAATGCTCAAGCTAACGTT
+YDR055W         TCTTCTAAGGCCGAGGAAAAGAAGTTCACTTCTGGCGATATCAAGGCTGCTGCTTCTGCC
+                ***** *  *                               ***  **         *  
+
+Kwal_12366      ACCGCTTCTTCCATGTCTT---CTTCCTCATCATCTTCTAAG---TCCAAGGG---TGCT
+YBR078W         TCAGCTTCCGCTAGCTCTT---CTTCCTCTTCTTCTAAGAAG---TCTAAGGG---TGCT
+YDR055W         TCTAGTGTTTCTAGTTCTGGCGCTTCCAGCTCTAGCTCTAAGAGTTCCAAAGGCAATGCC
+                 *   *    * *  ***    *****   **       ***   ** ** **   *** 
+
+Kwal_12366      GCTGCTGGTGCTCAATTCGCTCCAGCCTCTTCCTTCATGGGTGCTGTGGCTGCTGTTGCC
+YBR078W         GCTCCAG------AACTTGTTCCAGCCACTTCATTCATGGGTGTCGTTGCTGCTGTTGGC
+YDR055W         GCTATCATGGCACCAATTGGCCAAACAACCCCTTTGGTCGGTCTTTTGACGGCAATCATC
+                ***           * * *  * * *  *  * **  * ***    *  * **  *   *
+
+Kwal_12366      GTTGCCTTGTTGTAA---------------------------------------------
+YBR078W         GTTGC-TTACTATAAGATTAAAGCAACAATTTGTGTTTCTATTATTACTTTAATTTCTTC
+YDR055W         ATGTCTATAATGTAA---------------------------------------------
+                 *  *  *  * ***                                             
+
+Kwal_12366      ------------------------------------------------------------
+YBR078W         TCTAATGATTTCTTTACCATTCCTTTTTTATTATGAGACGGTTGGTTCATCACTGAATTT
+YDR055W         ------------------------------------------------------------
+                                                                            
+
+Kwal_12366      -------------
+YBR078W         TATATGTAGATAA
+YDR055W         -------------
+                             
