@@ -1,0 +1,102 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         ---------ATGAATCGTGTTGGTATAGACGTAGATCATATGATAGGGGTCCTGCTTCTG
+YML018C         ATGGTGTCGAAGGATCAAACGTCCTTTAATAAGAGGTGGACCTTGGGTCTTCTGATGTTG
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         GCCGTAGTGGTGGTGTTTTGGGTTGGCGCTTCGTGTTTGACTAATGAATTGCTCGAGACA
+YML018C         GGTCTAGTCATTATTTTGTGGGTTTTATCGTCCTTCCTGATAAATTTGATCTTCGAGGAT
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         AACGCGTACAATAAACCTTTCTTCCTTACTTATCTAAACATATCATCGTTTGCTCTTTAT
+YML018C         GACTCGTATAGAAAACCATTCTTTATCACGTACACCAATACTGCCGCCTTTATCTTTTAT
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         TTGACGCCAGATCTATGGAGGATAAT--CCAATCAAGAAGGAAGAGCTTGCAGGAACGGA
+YML018C         CTTTTTCCAACTGCAAAGGCCGTTGTGGTGAATTACAAGGACACAGGCCGTGCAAACGTT
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         CAGAACGAAC--ATTACCTATTCACACACAAGAATCTTTTTCAGAGTTCCTACCTTTACT
+YML018C         CACCGCGAACTAATTATGGAGGAAGAAGGTACTGGTAGTGATAGCAATCGCTCGGTTGAT
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         ATCTTCA----ACTCCTTCTACTTCTTCAAATTTGTCT---------TCGATAGCGGACA
+YML018C         ATGACTAGCCCACTGCTTACAAACCTTGAAGCAGGCACGCATGCCAACCAAAAGAAGAGG
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         CGAAAGTGA-AGGATACAATGAGGTTGAGTCTGCTATTTTGCGTCTTGTGGTTCGTGGCA
+YML018C         CTAACGTTATATGAAACAATCAAGTTAAGTGCTGAGTTCTGCATACTTTGGTTCACAGCT
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         AATTTGGCGGCTAACGCTGCTTTGTCGTATACCACAGTGGCTTCGTCAACAATTCTTTCA
+YML018C         AACCTTGTGACCAATGCCTCGCTGGCATTCACATCGGTGGCATCGCAGACAATCCTCTCC
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         TCGACATCCTCATTTTTTACCTTATTTCTTGCCACTAGTCTAGGAATAGAAACTTTTTCG
+YML018C         ACTACTTCTTCCTTTTTCACCTTGTTCATAGGTGCTATTTGTCATGTTGAATCGTTGAGC
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         ACAAAAAAACTGCTGGGGTTATTTGTGTCTTTGTTTGGAATTATCTTAATTGTGATGCAA
+YML018C         AAGTCCAAAGTACTCGGGTCGTTCATTTCCTTTGTAGGCATAATCATGGTCACCAAATCA
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         TCCTCGAAGCAACAG------------------------------GATTCTGTGAGTGCT
+YML018C         GATTCTCATCAGCGCTACCAACGCCATATCGCGGACGTTAGTGGTGATGATAACGATGCC
+                                                                            
+
+Kwal_18520      ------------------------------------------------------------
+YDR438W         TCCTCCTTTTTGGTAGGTAACACTTTAGCACTGCTGGGGTCATTGGGTTACAGTGTCTAT
+YML018C         GTGCAAGTTCTGATAGGCAACTTGTTGGCACTTGCAGGTGCTGTACTTTACGGTGTCTAC
+                                                                            
+
+Kwal_18520      ------------------------------------------------ATGAAGATCTTC
+YDR438W         ACAACCCTTTTGAAATACGAAATATCATCCAAAGGTCTCAGACTAGACATTCAGATGTTT
+YML018C         AGTACTTTATTGAAGAGAGAAGTCGGAGATGAGACTCGTG---TTAACATGAAGATTTTT
+                                                                **  **** ** 
+
+Kwal_18520      TTTGGCTTTGTCGGCCTTTTTACCCTCGTTCTACTATGGCCTACCGTCATTGCTTTGCAT
+YDR438W         CTTGGTTATGTTGGTATCTTCACGTTTCTGTTGTTTTGGCCAATTTTAATAATCCTGGAT
+YML018C         TTTGGCTTTGTTGGTCTCTTTAATTTACTTTTTCTATGGCCATCACTGATTGTATTGGAC
+                 **** * *** **  * ** *   *  *  *  * *****     * **     ** * 
+
+Kwal_18520      TATTTGGGCTGGGAGACCTTCGAGCTTCCTAAGACTCCAAAGGTCATTTTCATTGTAGTG
+YDR438W         ATAACACATATGGAAACTTTTGAACTACCAAGTAACTTCCACATTTCTTTTCTTGTCATG
+YML018C         TTTTTTGGCTGGGAACCATTCTCTCTGCCCAAAGATCCTAAAGTTGTGGTAATAATCTTC
+                           ***  * **    ** ** *         *  *     *  *  *  * 
+
+Kwal_18520      TTCAACTGCATCATCACATTTATCAGTGACTTTTGTTGGGCCAAGGCAATGTTGCTCACT
+YDR438W         TTAAATTGTATCATTATCTTTGTTAGTGACTATTTTTGGTGTAAAGCCCTCATTTTGACA
+YML018C         GTCAATTGTCTCATCACATTTGTTAGCGACTTTTGTTGGGCAAAGGCTATGTTACTAACG
+                 * ** **  **** *  *** * ** **** ** ****   ** **  *  *  * ** 
+
+Kwal_18520      TCTCCCTTGACGGTCACCGTGGGGCTCAGCACCACCATTCCTTTTGCCATGCTCGGTGAC
+YDR438W         TCACCCTTGGTGGTTACCGTTGCCTTAACTTTTACTATCCCGTTAGCCATGTTCGCTGAT
+YML018C         AGTCCTTTAACCGTCACCGTAGGATTGAGCATAACGATACCCCTAGCAATGTTTGGTGAT
+                   ** **    ** ***** *   * *     ** ** **  * ** *** * * *** 
+
+Kwal_18520      TTCCTCTTCAAATCTAGGCCGATGTCATTCATATACTTATTGGGTGCAACGCTTATTTGC
+YDR438W         TTTGTATGGCGAGAGGCATTTTTTACGCCTTGGTATATCATTGGTGTTATTTTCATTTTT
+YML018C         GTAATCTTTAAGCACAAAACCATGTCTGCGCTCTATTTATTTGGTGCTACCCTCATCTTA
+                 *  * *               *  *       **  *  * ****  *   * ** *  
+
+Kwal_18520      GCAAGTTTCTTCATTGTCAACAAAGAGTCGGAAGAGGAATGTTGTCA-AGTCGAGCA-AT
+YDR438W         GTTTCATTCTTTCTAGTTAACCA----TCGGGGAGAATCTGCTGTTGAAAAGGACTGTGC
+YML018C         GGCTCATTTTTCATCATTAACAAAAGCTCTGAGGAGGAACATTTTGAGAACTCAATA-AC
+                *     ** **  *  * *** *    ** *           * *   *    *      
+
+Kwal_18520      --CAAGCTCTATCTAA------------------------------
+YDR438W         TGCGGTTGAAAAAGGACCTATCTTGGATGCCTAA------------
+YML018C         GGCTAGCAATTACGAATCAGTGGAGGTGCCAGCAGCAAACAACTGA
+                  *            *                              

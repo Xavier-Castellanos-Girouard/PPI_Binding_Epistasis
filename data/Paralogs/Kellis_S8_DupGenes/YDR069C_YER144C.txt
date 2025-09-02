@@ -1,0 +1,242 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         ATGGAGCAGAATATTATTAGTACCATAAGGGATGAGTGTATTCGTCACCGGTCGAAGTAC
+YER144C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         CTTACGATAGCACAACTAACCGCTATTGCAGAGGCTAAAATTAACGAATTCATCATAACT
+YER144C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         GGTAAGGCAAAAGATCAAGATTTGAGCAGTCTTCTAGATAAATGCATCGATATTTTATCT
+YER144C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         ATTTACAAGAAGAACTCGAAAGATATCAAAAATATTATATCGTGCAAAAATAAGGGTGCA
+YER144C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         ATGATTAGTTCAAATTCCGTAATGATTATTCAATTAAATTATGTTTACTACAAGGTAATT
+YER144C         ------------------------------------------------------------
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         CACATTATTGTAACAACCAATATTCCTCATTTAAGTGAATTCGCCAAGATTAAATTACAT
+YER144C         -ATGGGCTCAGAACAAGCCTTAAG--TGAGGTTGTCGAATCTGCTAAAGAGCGGTTCGGC
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         AAGAGCACGAGTGATGAGGGCAACGGTAATAACAACAATAATGAATTTCAACT-CATGAA
+YER144C         AGGCTTAGGCATTTAGTTCAGAAGTTTCTTGATGATGACGACGTGCCACAAGAGTGTCTG
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         CATTTACAACACT--TTGCTGGAAACCTTATTAAAAGATGAAAACAT-TGCAAAAATAAA
+YER144C         CCTTTGCTCCAAGAATGCGCAGAAATATGGTCTAGTTATGTGGACGCATGCCAGGATATA
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         AAGTTTCATTAAGTCTTCCATAAAACAAACAAAATTGAACCATGAGCAAGAAGAATGTAA
+YER144C         A----CCATGCAGGCCCCTAAAGAAGATGCAAACCGG--TTGTCAAAGGGGTTTCTCCGA
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         CCTGATGAGAACGGGTTCCTATATCACTTCCAATCAATTAAACTCCCTAATAAGTTCATC
+YER144C         TTGAATGAAACAGCTTTTTTATATTACAT--GATCGTATATACGCTCTTGGAGGATACTC
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         AGCAAATTCTGC-----TTCCTCCCAAATGGAGATACTACTGATAGATATACGATCAAGG
+YER144C         TACCAAGACTAAAGGAATTTTCGAGCAACAAGGACCAGAATGTTAGAAATTTGTACGGGG
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         TTGGAATTCAACAAGTCACATATTGATACAAAAAATATTATATGCCTGGAGCCTATT---
+YER144C         AGAGAATCCAGCTT-TTGCATAATGACCCAAATATTGAGCGGATTCGAAATGTCATTGAA
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         ---TCTTTTAAAATGTCATATT--CAGATCATGATTTGGAGAAAAAATCATTAATTACTT
+YER144C         AATTACCCTAAATTTATACAGTTGCAAACTATAGAGCCTGGAAAATTAAGTTCAATGTTG
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         C-TCCTAATAGTGAGATTAAAATGTTTCAAAGTAGAAATCTT---TTCAAGTTTATCATT
+YER144C         CATTTTCATGGTGACGCTCTCTTGCTTATCGATGTACGGCCCAGGTCTGAATTCGTTAGG
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         CTCTATA-CAGACGCAAACGAATACAATGTTAAACAGCAGTCTGTCCTGTTGGACATTCT
+YER144C         GCCCATATCAAATGCAAAAACATTATATGCATCGATCCTGCCTCATTTAA-GGATTCTTT
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         GGTGAATCATTCCTTTGAAAAACCAATATCCGATGACTTTACCAAAATTTTCATTCTGGA
+YER144C         TACAGACCAACAAATTGAAAG-TGTCTCTTTGATCACTTCGCCGCACTCAGATATC----
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         ATCTGGTTTTCCAGGTTGGCTTAAGTCAAATTATGGGAGGCAAGTATCATCATCTTTTCC
+YER144C         ACTTTCTTTTCAAATCGAGACAAGTTCAAGTTCATTATTTTATATACTGACA----CTCA
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         ATCAAATAACAATATTAAAGATGATAGTGTTTATATTAATGGTAACACTTCTGGCCTAAG
+YER144C         ATTGCATAATAATTTCCAGCAAAGGCAAACTCGCATCCTTGCGAAGATTCTTTCCCAAAA
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         TTTACAACATTTACCTAAGATGTCTCCCAGTATAAGACATTCAATGGACGACTCTATGAA
+YER144C         TTCAGTA-ATTAAACCGCTGAGTGGGACGAAAATACTCATTTTGGAAAATGGGTTCTCAA
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         AGAAATGCTAGTTGCGCCTACTCCATTAAATCATCTTCAAC--AACAGCAACAACAGCAA
+YER144C         ACTGGGTTAAATTAGGTGGGGCGTATCAATCATCTGTCAGTGAAACAGCGCATCTTACAT
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         TCAGACAATGATCATGTGCTAAAAAGA-TCTTCAAGTTTCAAAAAATTATTCTCAAATTA
+YER144C         CCTCGTCTTCAACGCCAGCTTTTGGTAGTCCGCAAGTCCCAACAGGCT--TGTTCAATCA
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         TACGTCTCCTAATCCGAAGAATTCAAATTCAAACTTATATTCTATATCTTCGTTGTCCAT
+YER144C         GAAATCTCTATCTCCAAATAA---AGATAAGAG---------TATGCCGATGGTATCCAT
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         ATCTAGTTCACCATCGCCTTTACCTCTACATTCGCCTGACCCAGTTAAGGGCAATTCATT
+YER144C         GAATACGCAGCCTTTGCTAACAACGGTGCAAAGGCCTCAATTACCCTTATACTATTCA--
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         GCCAATCAATTATCCGGAAACGCCACATCTTTGGAAAAACAGTGAGACAGATTTTATGAC
+YER144C         -------GATTTGCCCATTATACCGCAACC------AAGCCCCAACAGAAATTCTCCCAC
+                                                                            
+
+Kwal_2008       ------------------------------------------------------------
+YDR069C         AAATCAAAGAGAACAGTTGAATCACAACTCTTTTGCTCACATAGCTCCTATCAACACGAA
+YER144C         CGTTCAAAAATT-TAGTCCACATCCACCAACCACTCTCTCAAAACTCAATACACCCT--C
+                                                                            
+
+Kwal_2008       ------------------------------------------ATG-TCGCCGCCTGCGGT
+YDR069C         GGCCATCACTTCTCCATCAAGAACTGCCACACCGAAGTTACAACGCTTCCCGCAAACAAT
+YER144C         GACCATTCAAAATAAAGCAAACACTGTGGAAAGAATATCGCCAGA-TATCCGCGCTGCAC
+                                                          *   *  ****       
+
+Kwal_2008       CAGCGCTTTCGCTAATGG------CGACGGACAATCCGCGTTCCCCTCTTATAAGAAAAG
+YDR069C         TAGTATGAACCTTAATATGAACTCCAATGGACACAGTTCTGCCACCTCTACCATTCAACC
+YER144C         AAGCCCATGCCTATTTGCCCCCTGCATCGAATGTATTCTCGCCACGTAT-----------
+                 **      *     *        *   * *           * * * *           
+
+Kwal_2008       TCCTTCCCCTCTTAAGGAAACTACGCTCTCTTCAGGTCCTTTACAAAATCACTCCATGAA
+YDR069C         TTCGTGTCTATCCTTGTCTAATAATGACTCTTTAGATCATACA-GATGTTACACCA--AC
+YER144C         TCCGCCTTTACCACAACAGAACTTGTCTTCGTCGAGGCAGACC--ATCCTAAACAA----
+                * *                *        ** *     *       *    *  * *    
+
+Kwal_2008       TTCTTCGTTGGTAAAACGGGGCTTGAACATTAATGTTGGGTTGGTAAACCTCGGCAACTC
+YDR069C         TTCTTC--TCATAATTATGACCTTGATT-TCGCGGTTGGTTTGGAAAATCTAGGAAATTC
+YER144C         ---CTC--ACAAGTGCTTGATCTAGATC-TTATAGTAGGATTGGAAAATATAGGTAACTG
+                    **            *  ** **   *    ** ** **** ***  * ** ** * 
+
+Kwal_2008       ATGTTATATGAACTGCATAATACAGTGTTTACTGGGCACGCGTGAGCTTGTGCAGATCTT
+YDR069C         GTGTTACATGAACTGTATCATTCAGTGTATCTTAGGTACACACGAATTAACCCAAATCTT
+YER144C         TTGTTATATGAACTGTATACTTCAATGTTTGGTGGGAACACACGATTTGGTTCGAATGTT
+                 ***** ******** **  * ** *** *  * ** ** *  **  *    *  ** **
+
+Kwal_2008       TTTGGATGATTCATACAAGAATCATGTAAACCTAAACAGCAGACTGGGCTCGAAGGGAGT
+YDR069C         TTTGGACGATTCATATGCTAAACACATCAATATTAATAGTAAGTTGGGATCGAAAGGTAT
+YER144C         TTTGGATAACACATATCTGAATTTTATTAATTTTGATAGTTCAAGAGGTTCTAAGGGGTT
+                ******  *  ****    **     * **  *  * **       ** ** ** **  *
+
+Kwal_2008       TTTGGCAAAGTACTTCTCACAACTGATTCATAACATGCAACAGCAAGCAATCTCCGCTAG
+YDR069C         TCTGGCAAAATATTTTGCAAGGTTGGTTCATATGATGTA---------------------
+YER144C         GCTAGCTAAAAATTTCGCCATCTTGGTCAATAATATGCACAGACA---------------
+                  * ** **  * **  *     ** *  ***  *** *                     
+
+Kwal_2008       TGGCAGGAAATCTACTAGTGGCAATGAAAGAAATGCAGTTCAACCCTTACATTTCAAAGT
+YDR069C         ---TAAGGAACAGGTTGATGGTTCAAAGAAAATTTCCATATCACCGATAAAATTTAAATT
+YER144C         CGGTGCATTCACACCTCCTAACGTAAGAACGATACCAGTTCAGACTATTCAGTTTAAAAA
+                               *  *         *  *   *  *     *  *  * ** ***  
+
+Kwal_2008       TGCTTGTGGATCAATCAACTCGTTATTCAAGACCACTTCTCAACAAGACTGTCAAGAGTT
+YDR069C         GGCATGTGGATCTGTTAACTCATTATTTAAGACTGCATCCCAACAGGACTGCCAAGAGTT
+YER144C         AATTTGCGGCCATATCAACCCCATGTATAGTGATTCAATGCAGCAAGATTGTCAAGAATT
+                    ** **     * *** *  * *  *      *    ** ** ** ** ***** **
+
+Kwal_2008       TTGCCAATTTTTACTTGATGGGCTACATGAAGATCTAAATCAATGCGGTGGCAATCCTGC
+YDR069C         TTGCCAATTCCTTCTAGATGGTCTTCATGAAGACTTGAACCAATGCGGTTCAAACCCACC
+YER144C         TTGTCAATTTTTGCTTGATGGCTTGCACGAGGATTTGAACCAAAACGGCAGCAAAAAGCA
+                *** *****  * ** *****  * ** ** **  * ** ***  ***    **      
+
+Kwal_2008       ACTGAAGGAATTATCCGAGGAGGCAGAAGCTATTCGCGAGAAGCTCTGCATGAGGATTGC
+YDR069C         TTTGAAGGAGCTTTCTCAAGAAGCTGAGGCGAGAAGAGAAAAACTGTCTTTGCGAATTGC
+YER144C         TCTTAAACAGTTATCAGATGAGGAAGAACGAATGAGAGAAAAAATGTCCATACGCAAAGC
+                  * **  *  * **  * ** *  **    *   * ** **  * *   *  * *  **
+
+Kwal_2008       TAGCTCAATCGAATGGGAGAGGTATTTGACTACTGACTTTAGCGTGATAGTAGATCTATT
+YDR069C         CTCGTCAATTGAGTGGGAACGATTCTTGACTACTGATTTCAGTGTTATTGTCGACTTATT
+YER144C         TAGTGCTCTCGAGTGGGAAAGATTTTTGCTTACCGACTTCAGTGCGATAATTGACCTTTT
+                     *  * ** *****  * *  ***  *** ** ** ** *  **  * **  * **
+
+Kwal_2008       CCAAGGACAATATGCGTCGCAACTCATGTGTAAAGTGTGTGGACGTACATCGACAACGTA
+YDR069C         TCAGGGACAATACGCCTCACGACTAAAATGTAAAGTCTGTAGTCATACCTCGACAACATA
+YER144C         CCAAGGACAGTACGCATCTAGGCTACAATGTCAAGTTTGTGAACATACCTCCACAACTTA
+                 ** ***** ** ** **    **    *** **** ***   * *** ** ***** **
+
+Kwal_2008       TCAGCCGTTCTCCGTTCTTTCCGTACCCGTTCC---GCGCGGCGCGCGTTGTAAC-TTAT
+YDR069C         CCAACCTTTTACGGTGCTGTCAATCCCTATTCCTAAAAAAAATTCCCGAAATAATATTAC
+YER144C         CCAAACATTCTCTGTTCTTTCTGTTCCTGTCCCACGCGTTAAAACTTGTAACA----TAT
+                 **  * **  * ** ** **  * **  * **           *  *    *    ** 
+
+Kwal_2008       TA-----GACTGTTTTGAGGAGTTCACCAAAATTGAAACTTTAGAGAAGGACGAACAATG
+YDR069C         CATTGAAGATTGTTTCAGAGAGTTCACCAAATGTGAGAACTTGGAAGTGGATGAGCAATG
+YER144C         TA-----GACTGTTTCCGGGAATTCACCAAATGCGAAAGGTTAGGTGTCGATGAACAATG
+                 *     ** *****    ** *********   ** *  ** *     ** ** *****
+
+Kwal_2008       GTCTTGTCCTCGATGCAAAGTTAAGCAACCGTCAACGAAAAAAATAACCATCACCCGCTT
+YDR069C         GTTGTGCCCACATTGTGAAAAAAGGCAGCCCTCCACGAAACAATTGACAATAACGAGATT
+YER144C         GTCATGTCCTAAATGCTTAAAAAAGCAGCCTTCCACTAAACAACTGAAGATTACTAGATT
+                **  ** **    **   *   * *** ** ** ** *** ** * *  ** **  * **
+
+Kwal_2008       ACCTCGCAACCTGATTATTCATTTAAAGAGGTTTGATAACTTACTTCACAAAAACAATAT
+YDR069C         ACCGAGGAATCTGATAGTCCATTTAAAGAGATTTGATAATTTATTAAACAAAAATAATGA
+YER144C         GCCTAAGAAACTAATTATTAATTTGAAACGATTTGACAATCAAATGAATAAGAATAATGT
+                 **    ** ** **  *  **** **  * ***** **   * *  * ** ** ***  
+
+Kwal_2008       ATTTGTGTCATATCCACACACGCTTGACCTTACACCCTTTTGGGCTAATGATTTTGATGG
+YDR069C         CTTCGTCATATACCCTTTTTTGTTGGACTTGACTCCATTTTGGGCCAATGATTTTGACGG
+YER144C         GTTTGTCCAATATCCTTACTCCTTAGATCTTACACCATATTGGGCGAGAGATTTTAA---
+                 ** **   *** **        * **  * ** ** * ****** *  ****** *   
+
+Kwal_2008       AAGCCTACCAAAAGGTGT----GGCG--GAGCTTCCGACTCGAGGTCAGACTCCTCCGTT
+YDR069C         GGTTTTTCCTCCAGGTGTTAATGACGATGAACTACCAATAAGGGGACAAATACCACCTTT
+YER144C         ------TCATGAAGCTATTGTTAATGAGGACATTCCTACCAGGGGCCAAGTACCACCATT
+                       *    ** * *       *  **  * ** *   * ** **    ** ** **
+
+Kwal_2008       CCATTATAATCTCTATGCAGTTGCTTGCCACTTCGGTACACTTTACGGAGGGCACTATAC
+YDR069C         TAAGTATGAATTATATGGTGTAGCATGCCACTTTGGTACTTTGTATGGTGGTCATTATAC
+YER144C         TAGATACAGACTGTATGGGGTTGCATGTCATTCGGGGAGTTTGTATGGGGGACACTATAC
+                    **     * ****  ** ** ** ** *  ** *   * ** ** ** ** *****
+
+Kwal_2008       TGCATATGTGAACAAAGAAGACAAAAACGGATGGTGCTATTTCGATGATACATGTTGGAG
+YDR069C         AGCCTATGTGAAAAAGGGATTAAAGAAGGGATGGCTATATTTTGATGATACCAAATATAA
+YER144C         TTCATACGTTTATAAGGGACCAAAAAAAGGTTGGTATTTTTTCGATGACTCGCTTTATCG
+                  * ** **  * ** * *   ** ** ** ***   * *** *****  *    *    
+
+Kwal_2008       AAAGGCAAAAAGCGAAGATGAATGTATCACAACTAGTGCATACGTGTTATTCTACCATCG
+YDR069C         ACCTGTCAAAAACAAAGCCGATGCAATTAACTCTAATGCATACGTTTTGTTTTATCACCG
+YER144C         TCCTATAACGTTTAGTACTGAATTTATCACACCCAGTGCATATGTTTTATTTTACGAAAG
+                       *           **    ** *   * * ****** ** ** ** **  *  *
+
+Kwal_2008       CAAATATATTACGTCGTAA
+YDR069C         CGTCTACGGTGTTTGA---
+YER144C         AATTTTTTGA---------
+                    *              

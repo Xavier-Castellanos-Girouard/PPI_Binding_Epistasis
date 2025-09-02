@@ -1,0 +1,277 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_11573      ---ATGGGGGGTAAAAGTCCAAAGAAAAGTGCAG-CAGTGG-----------CCGGGAAA
+YDR223W         ------------------------------------------------------------
+YLR223C         ATGGCAGGCAAAAAAAGTCCTCGAAAAAGTACGATCAATCATAGTACACATTCTGGTAAA
+                                                                            
+
+Kwal_11573      CAACCGTCCAACTTGCAGAGACTGAAGAATAGAAGCG---TTGGCGGCAAGTCTGCGCCA
+YDR223W         ------------------------------------------------------------
+YLR223C         CTGCCAGCAAATATTAAAAGGCTCATAAAAAAGGGCGAATCCGATACAAAGTCCAGGCAA
+                                                                            
+
+Kwal_11573      CGGCTTTCTGGAACGGGCCTACACGCACGGCCACGGAGATTCAGTTTGATTTACTCGTCG
+YDR223W         ------------------------------------------------------------
+YLR223C         TCACCACCCACACTGAG--TACA-ACGAGGCCAAGAAGATTTAGCCTTATATACTCTTCT
+                                                                            
+
+Kwal_11573      GACTCCTCTTTAAGCGCACTTTCGGACCTAGAGAGCCATAAGAAAACCGGCTTCAAGAAC
+YDR223W         ------------------------------------------------------------
+YLR223C         GAGTCATCCTTGAGTGACGTATCTGATTCTGATAAAAACAAAAGTACAAACCCACATAAA
+                                                                            
+
+Kwal_11573      CCTGTCATGAGTAAGAAATCGAGACGAGGCGTGAGTAACGAAATGGGAAAGAATGGTAAG
+YDR223W         ------------------------------------------------------------
+YLR223C         ------ATTAAAAGAAAAGCAAAGAACATTTCAAATAATTCCCAAGGAAAAAAAAGTAAA
+                                                                            
+
+Kwal_11573      CTGATATCAGA------AAACGCCATAGACTCTGGCAGCGACTCCTCGAGCTACGAAGCG
+YDR223W         ------------------------------------------------------------
+YLR223C         CTTATACAAAGGCAAATAGACAATGACGACGAGGGCACAGAGTCATCCGATTACCAAGCT
+                                                                            
+
+Kwal_11573      GTAGAAGATG------AGAGCGAGGCCGAAGGAAGTGGGGACGAAGAAGAAGAGGAAGA-
+YDR223W         ------------------------------------------------------------
+YLR223C         GTAACAGATGGCGAAGAGAGTGAAAATGAAGAAGAAGAGAGTGAAGAAGAAGAAGAAGAT
+                                                                            
+
+Kwal_11573      -----------------CGGCGCTGATGACGATGGAGGCGCTGACGACTCCAGCTCGGCA
+YDR223W         ------------------------------------------------------------
+YLR223C         GATGACGAAGACGACGACGACGATGATGATGACGGAAGTGATAGTGATAGTGATAGCGAA
+                                                                            
+
+Kwal_11573      TCAAGTTCGAGTGACGACGACGTCGACTTCGTGAAGTTGAGTGCAGAAAGGAAAAAAAGG
+YDR223W         ------------------------------------------------------------
+YLR223C         ACAAGTTCTGATGACGAGAATATAGATTTTGTCAAACTGACGGCCCAAAGAAAGAAAAGA
+                                                                            
+
+Kwal_11573      GCCATGCGGGCCATGAGCGCTTTGAA---ACGGGGCAAG------------TCTCCAAAG
+YDR223W         ------------------------------------------------------------
+YLR223C         GCCATGAAAGCTTTATCTGCCATGAATACAAATAGCAATACACTCTATTCCTCTCGTGAG
+                                                                            
+
+Kwal_11573      AAAAGTGACT------------TCAAGCCCTCTC---------AAAATCCAAAAGGGCCG
+YDR223W         ------------------------------------------------------------
+YLR223C         AACAGTAACAAAAATAAATCAGTTAAACTATCCCCTAAGAAAGAAAATGAAGAAGAGCAG
+                                                                            
+
+Kwal_11573      CCTCA-------GAAAAAGAGT-----------------CCATCCGGCTCAGGCGAATCC
+YDR223W         ------------------------------------------------------------
+YLR223C         AAAGAAGAAAAAGAAAAAGAGAAAGAAGAGCAACAAAAACAACAAGAATCAAACAAAAAA
+                                                                            
+
+Kwal_11573      GAGGAAGAAGATTCA------------------------CTGGCTTTCAGCTTCAAAAAC
+YDR223W         ------------------------------------------------------------
+YLR223C         GAAGTAAACGGTTCAGGCACTACTACTACACAACAGGCGCTATCGTTTAAATTCAAAAAA
+                                                                            
+
+Kwal_11573      GA---CGGTGACATCAAGTTTG---ATGGCAA-GAACGCCAAA--GAGGAAGCCAGCGAC
+YDR223W         ------------------------------------------------------------
+YLR223C         GAGGACGACGGCATTAGTTTTGGTAATGGTAATGAAGGCTATAACGAGGATATAGGTGAA
+                                                                            
+
+Kwal_11573      GAAGATGTTGGTGAAGAAATCAAGGACAGTCAGAATGCCTCTGGAAAAACAGTTGCATCC
+YDR223W         ------------------------------------------------------------
+YLR223C         GAAGTCTTGGATTTAAAAAACAAAGAGAACAATGGTAATGAAGAAGATAAACTGGATTCT
+                                                                            
+
+Kwal_11573      AAGACGGCACCAGTAGAT--CAACTAAATGTG--CCGCAAATATCCGAAAGTGAG--GAT
+YDR223W         ----------------------------------------ATGTTGCTTAGTGCGCCTGT
+YLR223C         AAGGTGATGTTAGGTAACAACGATGAGTTACGATTTCCCAATATTTCAGAGTCAGATGAA
+                                                        ** *     ***  *     
+
+Kwal_11573      TCTGATTATGAAATTGATCAAGACGCATATATCAAGAGCATCCAGTCCAATGAAGAGGAC
+YDR223W         TAACAGTACCGTGCGGCGCAAGCCACACAGTCCAAATAAAAAAAAGCCAAAAGAGA----
+YLR223C         TCTGAATATGATATTGACCAGGATGCGTACTTTGACGTGATTAA---CAATGAAGATTCT
+                *   * **       *  ** *   *  *     *    *   *   ***   ***    
+
+Kwal_11573      GTAGTTGGGCTTGACACAGATTTTGACACAGGCGAAGATGACGTGCCGATGTTAGATGAG
+YDR223W         -CAGGTACAGCTGCTTCCTTTTCGTCGTCCTCTTCAACTGTCGTCCTTTCATCCAATAAT
+YLR223C         CATGGAGAAATTGGTACAGATCTTGAAACGGGGGAAGACGATCTTCCCATATTGGAAGAA
+                   *       **   *   *       *      *   *   * *     *   *  * 
+
+Kwal_11573      GAGGAGCAGAATATTGTT--ATGGAACTGGAAAATGATGATGAATTGTCATTTGACGGAA
+YDR223W         GATGGCAGCTTTGATGCTCTTTGGGACCCCTCTATAAGTAAGGCCTCGGATTT--TGAGA
+YLR223C         GAAGAACAAAACATTGTT--TCTGAGCTACAAAATGACGACGAACTCTCATTCGATGGTA
+                ** *          ** *     *  *      ** *  * *   *   ***    *  *
+
+Kwal_11573      GCATTCACGAAGAGGGCGAAGATCCAGTAGAAGCAGGGGACGACGA-CAATAGGGACATG
+YDR223W         GTA---GCTATATTAGTGCTAAACGATTAAAACCAGAAAGTAGTAA----TAGACAGAAA
+YLR223C         GTATACACGAAGAAGGGTCTGATCCTGTAGAAGATGCTGAAAATAAATTTTTGCAAAATG
+                * *    * *     *     * *   ** **   *         *    * *  * *  
+
+Kwal_11573      AAGAATAGTAGCCTGACGTATAACGACTACGAGGATGATGACGAGGACGAAATAATGAGC
+YDR223W         AAAAAAAATTCTTATAAATATTCTAGGGAGGAAAACACCAACGAGGTAGAGGAAAAGACG
+YLR223C         AATACAATCAAGAAAACGGATA-TGATGAAGAAGATGACGAAGAAGATGAAATAATGTCT
+                ** *  *        *   **       * **  *     * ** *  **   ** *   
+
+Kwal_11573      GACTTTGACGAACCCTTTTATGAAGATCCCAAATTCGCAAACCTTTACTATTGCGCAGGA
+YDR223W         TCTCTTGGCA-GCAGCTCTAAGACAGAAGCAGATA---ATATATTTAATGACCAGCTCAC
+YLR223C         GATTTTGATATGCCGTTTTATGAAGATCCTAAATTTGCAAATCTTTATTATTATGGCGAT
+                    ***     *   * ** **       * **    * *  **** *     *     
+
+Kwal_11573      AGT---GACCAACCGCTCTCAT-TAAGCACTTCATTACCTCTTATTCTCAATGACGAGAT
+YDR223W         GTCAGCTGGCAATACTACATATGTCAGTA-ATAAGCGCGATGTAAACTTCGGGGCGAATT
+YLR223C         GGTTCAGAGCCAAAGCTATCCT-TGAGTACATCTTTACCGTTAATGCTAAATGATGAAAA
+                         * *         * * ** *  *     *     *  **    *  **   
+
+Kwal_11573      GCGAAAGAA-CCAAGACAAGAAGCAATCAAAAAAGCGTGAACGTGAAGAGCTCATTCGTC
+YDR223W         CGGCTGTAGTACTGCTCGGTTTGCCAACAAGTAAAAGTGAATCTCACCGACAATACCACA
+YLR223C         ACTATCTAA-ACTAAAAAAGAAAGAGGCCAAAAAACGGGAACAGGAAGAAAGGAAACAAA
+                       *   *               * *  **  * ***    *          *   
+
+Kwal_11573      GTCGAAAATTGTCAAGAAAGCTGGATAAAAAGAGAAGGCAAAAGTCCGCTGCCCCTGATC
+YDR223W         GTCCTTCGGCTTCAACAA--CTAATGAAGATGAAGAGGACATTGGTGTTGATATTTTA-G
+YLR223C         GACGAAAGCTCTATAAAAAGACGCAAAAACCTAGTACGAGAA------CAACCTCCAATG
+                * *        *  * **        **    *  * *  *                *  
+
+Kwal_11573      TAGGTAACGAGGAGTATCTTTTCGGGGTCTTCTTTAAAAGTGACGAAGAAAA----GGCC
+YDR223W         TAGACAACCACATCGATAGTTGCGAAACAGTATCGATAAATAATAATAGAGGTATTACAC
+YLR223C         TGGACAATGATGAGTATATTTTCAATGTTTTTTTTCAATCAGATGATGAAAATAGTGGCC
+                * *  **  *     **  ** *       * *    *    *  *   *         *
+
+Kwal_11573      AC------TCAGAAGGGC---------TTGG-----AATCACCTCTACGACA--------
+YDR223W         ACCAATATCCAGAAACGGA-------ATCAGATGTCGACTTTGATGAGGCCGTGA-----
+YLR223C         ATAAG-AGCAAGAAAGGCAGGCATAAATCGGGCAAAAGTCATATTGAACATAAGAATAAA
+                *         ****  *          *  *               *             
+
+Kwal_11573      -GCTCGG-TTCGGTAGCTCCCTCTGATGA--------CGATTACTCAAG-----------
+YDR223W         -TATTGACACCAATGGATGGTACGGATAAG--GGAGTGAAAAATCCAAGA----------
+YLR223C         GGCTCGAATTTGATAAAATCCAATGATGATCTGGAACCATCCACTCATAGTACGGTCCTG
+                   * *       *          *** *             *  **             
+
+Kwal_11573      -----------------------CGATGAGGAGTACGAGAACATCCTTCTAGATATTGCA
+YDR223W         ------------------CCACTCGAAAAAAAATATAGTAGCAGTTGTTTTGA---GGAC
+YLR223C         AATTCCGGGAAATATGATTCTTCTGACGATGAATATGATAACATTTTGTTGGATGTTGCC
+                                        **  *  * **    * **      * **    *  
+
+Kwal_11573      CACATGCCTACTGACGAAGA-------GAGTTTAGAAGGT--------------ATGGCT
+YDR223W         CGTACGCCCCTTAACTTGGATGATGGTCATTTCAGTGAATGCAATCATTTTTCTACATTA
+YLR223C         CATATGCCTTCAGATGATGAATGCAGTGAATCTGAAACGTCCCACGATGCTGACACGGAT
+                *  * ***     *    **        * *        *              *     
+
+Kwal_11573      GA------------------------------------CGGCATTGAAGGGGATGACGAT
+YDR223W         GATGTGTCTAGCTTTTTTCATCT------------CAACGAGCATGTGCATAAAATCGAC
+YLR223C         GAAGAATTGAGGGCACTAGATTCAGATAGCTTAGACATTGGCACAGAACTGGACGACGAT
+                **                                     *     *      *   *** 
+
+Kwal_11573      GAAGACGATGACGATGACGACGTAAGCATATCTAATGTCTTCATCGACATCGATGATTTA
+YDR223W         GAAGTAGAGCTCGATGGACCTGATCGCACCTTTAGTCTAGACAACGTCGCTATTAATACA
+YLR223C         TACGAAGACGACGACGATGATTCCAGCGTGACAAATGTGTTCATAGACATCGATGATTTA
+                 * *  **   *** *         **      * * *   **  * *     * **  *
+
+Kwal_11573      GACCCAGATTCCTTCTACTTCCACGACGAGAGCTCGGAAGGTGAAGACAATGAAAACAGA
+YDR223W         AGGAAAAAGGATATTGATTGCCTCTATAATAGTTCAAGAGAAGACTTATCCAACCTCACA
+YLR223C         GATCCAGACTCTTTTTACTTTCATTACGACAGCGATGGATCTTCCTCTTTGATAAGTTCT
+                     * *     *  * *  *   *  * **      *                     
+
+Kwal_11573      GACAAAGACAGAAACTATACGGACAAGTTAGACGCCAGCGAAGACAAAGATCTTGTTGAA
+YDR223W         TGTTCTTCGGAAGGCCCAAGGAATGATAGTTATGATAGTGATTAC---AACATTGATGAG
+YLR223C         AACTCAGACAAAGAAAATTCTGATGGATCCAAAGATTGCAAACAT---GATCTCTTAGAG
+                           *          *        * *   *  *  *     *  *    ** 
+
+Kwal_11573      ACAGTCATTTATATCGATGGAGAGTCCACGGACGAAGACGAAACTCTACCTCCGCCCAAT
+YDR223W         ---GTCACTTATAGAGATGATGAATCAACAGATGAAGACGAGAGCTTACCAACCCCAGAT
+YLR223C         ACTGTTGTGTACGTTGATGACGAATCCACAGATGAAGATGATAACCTACCGCCCCCAAGT
+                   **    **    ****  ** ** ** ** ***** ** *   ****  * **   *
+
+Kwal_11573      GCAAGGAATAGAAAAATTGGATCTAAGGCAAAAGAAGTAGTAAGCGCCAACGTCGTCGGG
+YDR223W         CGAAAAAGGAAGAAAATTGGCCATAAAGCTTGCGAAATATTGGATTCTAAAAGAATTGGA
+YLR223C         TCAAGGTCAAAAAACATTGGCTCAAAAGCAAAGGAAATCGTAAGTTCAAATGTTGTTGGA
+                  **     *  ** *****    ** **    *** *  *     * **     * ** 
+
+Kwal_11573      CTAAAGCCTCCAAAGCTGGGTACATGGGAGACTGATGACAAGCCTTTTAGTATCATTGAC
+YDR223W         ATAAAAGTACCAAAGTTATACGTTTGGTCTTTAAGTGATAAACCGTTTAGTGTTATCGAT
+YLR223C         TTACGTCCACCAAAATTGGGTACTTGGGAGACGGACAACAAACCTTTTAGTATTATTGAT
+                 **      *****  *       ***          * ** ** ****** * ** ** 
+
+Kwal_11573      GGCCTGTCGACCAAATCCCTTTATCCTTTGGTTCACGAGCAGCAAC---TCTTAGAGCAG
+YDR223W         GGGTTGTGCACAAAATCGCTGTACCCATTGAGTGATGA-CATAAATACTCCTGAAAGTTT
+YLR223C         GGTCTGTCTACTAAATCATTATACGCCTTAATCCAAGAACATCAACAGCTTCGCGAGCAA
+                **  ***  ** *****  * **  * **     * ** **  **          **   
+
+Kwal_11573      GAGCAAGTTGACCAACAGCCATTCTCG-GCGAGCGAGCTCAGCGCAGCGGCTGGCGAA-A
+YDR223W         GAGCTCAT-GCTCAAGCTCAGTAAGTTCACGGGAAAATCAAAAAGGAGATGCAACATTTG
+YLR223C         CATCAAAGGGCTCAAACCCCAGATGTT-AAAAGAGAGGGAAGCTCTAATGGCAATAAC-G
+                 * *     *  ***   *             *  *    *                   
+
+Kwal_11573      AGGAAGAACTCACACTCAATGAACTTCTGAACATGAGCGAACTCGATGATGA--------
+YDR223W         ATAATGATGCTATGATAGCCGACCTTCTAAACATAGGCGGACTCGAAGTAGAGAAGGCAT
+YLR223C         GTGACGAATTGACACTCAATGAGCTGCTAAACATGAGTGAATTGGAGGATGATTCACCAT
+                   * **    *   *    ** ** ** *****  * * * * ** *  **        
+
+Kwal_11573      -------AGATGGTCCCGAGAA----TACAG-GAAGTACTCA---------GCCCACAT-
+YDR223W         CC---AATGGCCATATTGAGCT----CATAGGCGAGTGA---------------------
+YLR223C         CCCACACAGACGATATGGAGAACAATTACAATGATGCAATTAATAGCAAAAGCACAAATG
+                        *    *   ***       * *     *                        
+
+Kwal_11573      ---------CTGAATGGTACGAGAAGCCTAAGGTTCCTCTATCCGCGTTCAGAAACAAGG
+YDR223W         ------------------------------------------------------------
+YLR223C         GCCATGCTGCAGATTGGTATGAAGTTCCTAAGGTTCCATTATCTGCATTTAGAAATAAGG
+                                                                            
+
+Kwal_11573      GAGTTGATGTTGCACATGACGACGAGTACATGCTTCCGGTCTTTTCTGCTCGAAAGTGTC
+YDR223W         ------------------------------------------------------------
+YLR223C         GTATTAATGCCTATGAAGAAGATGAGTACATGATACCAGCAAATTCTAACAGAAAAGTTC
+                                                                            
+
+Kwal_11573      CGATTGGATACGTCGGAAGCGAAAGGACAAGAAGAAAGATCGATAGAATGAAAGAGCTGC
+YDR223W         ------------------------------------------------------------
+YLR223C         CCATTGGCTATATTGGTAATGAAAGAACAAGAAAGAAGATTGATAAGATGAAAGAGCTAC
+                                                                            
+
+Kwal_11573      AAAGGAAAAAGACTGAGGAGAGAAAGAAGCTGAAAAAGAAGAAGAAGATT-TTAAAGCTG
+YDR223W         ------------------------------------------------------------
+YLR223C         AACGGAAAAAAACTGAAAAAAAAAGGCAGTTAAAGAAAAAAAAGAAGCTTCTTAAAATAA
+                                                                            
+
+Kwal_11573      AAGAGAGAACGTGAAAGGT--TAGAGAAGGAGAAAGCC---------CAAGAGGAAGCTT
+YDR223W         ------------------------------------------------------------
+YLR223C         GAAAGCAAAGACAAAAGGCAATAAAGGAGCAAGAAACTATGAATTTACAATTGGGAATCA
+                                                                            
+
+Kwal_11573      CCG--CATTTGATT--------CGCCTGCAGCCAATG--------ACAGCAGTAACGTGT
+YDR223W         ------------------------------------------------------------
+YLR223C         ATGGCCATGAGATCATCGGTAACAATAACAGCCATAGCGACATAAATACCGGTACCGATT
+                                                                            
+
+Kwal_11573      CTATAATGGCTAAGATTG---------ATGATCTTTCTGCTAACAAAAA-GAAGAAG---
+YDR223W         ------------------------------------------------------------
+YLR223C         TTACAACCAATGAAAATACCCCTATGAATGAACTTCCCTCTCACGCACCTGAAGATGCGT
+                                                                            
+
+Kwal_11573      --------------------GACTCTGGTACAGACGATTCTA------AAACCTCCATTG
+YDR223W         ------------------------------------------------------------
+YLR223C         CATTAATACCTCATAATTCTGATCTTGCCGTGGACAGCAATACAAGGAAAAATTCAACAA
+                                                                            
+
+Kwal_11573      AGGGAATGGATCTTGATGACATCAACAATCTTCTGAGTCGGGCTGACAGTGACTT-----
+YDR223W         ------------------------------------------------------------
+YLR223C         AAAGTGTTGGTTTAGATGAAATTCATGAGATTTTGGGCAAAGATGAAAATGACTTACTGT
+                                                                            
+
+Kwal_11573      --------GATA-----GCTCACGACGGGAACGGATTAGATCTGATCGGCAATGAAGACG
+YDR223W         ------------------------------------------------------------
+YLR223C         CTGTAGGTGATATTAACGGTTATGATGCACAAGAAGGTCATGTGATCGAAGATACTGACG
+                                                                            
+
+Kwal_11573      CAGACATTTTGGCAACTCTCACGGCTCCTGTGGACGTGGACTCTATTGGTGATGAACATC
+YDR223W         ------------------------------------------------------------
+YLR223C         CCGATATCCTAGCATCGTTAACCGCTCCTGTGCAATTCGACAATAC--ATTAAGC-CATG
+                                                                            
+
+Kwal_11573      TAACAACCGGTGCCGTGTGGAGAAGAAGACAGAGTGTCGTCGAAGCTGCGGCTAAGAACC
+YDR223W         ------------------------------------------------------------
+YLR223C         AAAATAGTAATTCCATGTGGAGAAGAAGGCAAAGTATGGTGGAAGCAGCGGCTGAAAATC
+                                                                            
+
+Kwal_11573      TTCGTTTCACGAAAAGTGGCCTCTTCAGTGAAAGTGCACTCGCTGATCTGGAGCAGATCA
+YDR223W         ------------------------------------------------------------
+YLR223C         TTCGTTTCACTAAAAATGGTTTATTTAGTGAGAGTGCATTGGCAGATATCGAAGGAATTA
+                                                                            
+
+Kwal_11573      TAGGCGGCTCTGCAGGGTCGGTCATA-GAATTTGGCGACGTCTTACAATGA
+YDR223W         ---------------------------------------------------
+YLR223C         TGGGCAATGATGTTAA-CCATTCATTCGAATTCAATGACGTCTTACAATGA
+                                                                   

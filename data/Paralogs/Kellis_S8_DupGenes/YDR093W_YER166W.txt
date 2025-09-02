@@ -1,0 +1,412 @@
+CLUSTAL W (1.82) multiple sequence alignment
+
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         ATGTCAAGTCCCTCCAAACCCACTTCTCCCTTCGTGGATGATATTGAGCATGAATCGGGA
+YER166W         -------------------------------------------------ATGTCTGGAAC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TCAGCATC-TAATGGTCTGTCGTCCATGTCACCATTTGACGATAGTTTTCAATTTGAAAA
+YER166W         TTTTCATGGCGATGGGCATGCTCCCATGTCGCCCTTTGAAGATACATTTCAATTTGAAGA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         ACCCAGTAGTGCGCATGGAAATATTGAAGTAGCGAAAACCGGCGGTTCTGTTTTGAAGCG
+YER166W         TAATAGCAGTA---ATGAAGATACACATATTGC----ACCTAC----CCATTTTGA--TG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         ACAATCTAAGCCAATGAAAGATATTAGCACACCCGATCTCTCAAAAGTTACTTTTGATGG
+YER166W         ATGGTGCAAC-------AAGCAACAAATACAGCCGGCCAC----AGGTCAGCTTCAATG-
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         AATCGATGATTATAGTAACGATAATGATATTAATGATGATGATGAACTCAATGGTAAAAA
+YER166W         -----ATGA----AACACCCAAAA----ATAAACG-TGAAGATG----------CAGAAG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         AACCGAGATACATGAACACGAAAATGAGGTGGATGATGACCTCCATTCGTTCCAGGCAAC
+YER166W         AATTCACATTTA--------ACGATGACACAGAATATGACAATCATTCCTTTCAGCCAAC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         ACCTATGCCTAATA------CTGGAGGCTTTGAGGATGTTGAGTTGGATAACAATGAAGG
+YER166W         ACCGAAACTTAATAATGGATCTGGGACGTTTGATGATGTGGAATTAGACAATGATAGTGG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TAGCAACAATGATTCCCAGGCAGATCATAAGTTGAAAAGAGTACGTTTTGGTACAAGAAG
+YER166W         TG-----AACCGCACACTAACT-ACGATGGTATGAAAAGATTCCGGATGGGTACAAAAAG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         AAATAAGTCAGGTAGGATAGATATAAATAGGTCAAAAACATTGAAATGGGCCAAGAAGAA
+YER166W         GAATAAAAAAGGAAACCCAATAATGGGAAGATCTAAGACCTTGAAATGGGCTAGGAAGAA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CTTCCACAATGCTATTGATGAATTCAGTACAAAAGAAGACAGTCTCGAAAATTCAGCCTT
+YER166W         CATTCCAAACCCATTTGAAGACTT---TACGAAGGATGATA---TTGACCCTGGTGCCAT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GCAAAATAGGTCTGATGAGTTGAGAACAGTTTACTATAATTTACCCTTGCCGGAGGACAT
+YER166W         ---AAATCGTGCGCAAGAACTAAGGACTGTGTATTACAATATGCCCTTACCAAAAGATAT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GCTTGACGAGGACGGCTTACCGTTGGCAGTTTACCCGCGTAATAAAATCAGGACTACGAA
+YER166W         GATAGATGAAGAAGGCAACCCCATTATGCAGTATCCTCGTAATAAAATCAGAACTACCAA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GTATACTCCATTAACATTTTTTCCCAAGAACATTCTTTTCCAATTTCATAATTTTGCCAA
+YER166W         ATATACCCCGTTAACATTCTTACCAAAAAACATTCTATTTCAGTTTCATAATTTCGCCAA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TATTTACTTTTTAATACTGTTGATTCTAGGTGCTTTTCAAATATTTGGTGTGACAAATCC
+YER166W         CGTTTATTTCTTAGTTTTAATAATTTTAGGTGCATTTCAAATTTTTGGTGTCACGAACCC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         AGGTTTTGCATCCGTTCCCCTAATTGTCATCGTAATTATCACTGCTATTAAGGATGGTAT
+YER166W         TGGTTTAAGTGCGGTTCCGTTAGTTGTCATTGTTATAATCACTGCGATCAAGGATGCTAT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CGAAGATTCCAGAAGGACTGTATTGGATTTAGAAGTTAATAATACAAGAACACATATCTT
+YER166W         TGAAGACTCAAGAAGAACCGTCCTAGATTTAGAGGTGAATAATACCAAGACACATATTTT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         AAGCGGGGTGAAGAATGAAAATGTTGCTGTTGATAACGTTTCCTTATGGAGGCGTTTCAA
+YER166W         AGAAGGTGTTGAGAACGAAAATGTCTCAACCGATAATATTTCATTGTGGAGAAGGTTTAA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GAAAGCGAATACAAGGGCATTGATTAAAATTTTTGAGTATTTTTCAGAAAACCTCACTGC
+YER166W         GAAAGCAAACTCTAGACTCCTTTTCAAGTTTATACAATATTGTAAAGAACATTTAACTGA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TGCTGGTAGAGAAAAGAAGTTACAGAAAAAAAGGGAAGAATTACGAAGGAAGAGGAACTC
+YER166W         AGAGGGCAAAAAGAAGAGAATGCAGAGAAAGCGTCATGAACTAAGAGTACAAAAAACTGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GAGAAGCTTTGGGCCACGTGGGTCTCTGGATTCAATTGGTAGTTACAGAATGTCTGCCGA
+YER166W         TGGAACGAGTGGACCCAGATCCTCTCTAGACTCCATTGACAGTTACAGAGTATCTGCAGA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CTTTGGTCGTCCCTCTTTGGATTATGAGAACCTGAATCAAACAATGTCACAGGCTAACAG
+YER166W         TTATGGCCGTCCTTCATTGGATTATGATAATTTGGAACAAG---------GGGC------
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GTATAACGATGGTGAAAATTTAGTTGATCGAACGCTACAGCCAAACCCTGAATGTAGGTT
+YER166W         ------CGGTGAAGCCAATATAGTTGATAGATCCCTACCACCCAGAACTGATTGTAAATT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TGCCAAGGATTACTGGAAAAATGTTAAAGTTGGTGATATTGTTCGTGTTCACAATAACGA
+YER166W         TGCCAAGAATTATTGGAAAGGTGTCAAGGTTGGTGATATTGTTCGTATCCATAACAATGA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TGAAATTCCTGCTGATATGATCTTATTATCGACATCAGATGTTGATGGCGCTTGTTATGT
+YER166W         TGAAATCCCTGCTGACATTATCTTACTTTCAACGTCGGATACAGATGGTGCCTGCTACGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GGAAACCAAAAATTTGGATGGTGAAACAAATCTAAAGGTCCGTCAATCATTAAAATGTAG
+YER166W         AGAAACTAAAAATTTGGATGGTGAAACAAACTTAAAGGTACGCCAATCCTTGAAGTGTAC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CAAGATTATTAAGAGTTCAAGGGATATTACCAGGACGAAGTTTTGGGTTGAAAGTGAAGG
+YER166W         CAATACTATAAGAACGTCAAAAGATATTGCTAGAACAAAATTCTGGATCGAAAGTGAAGG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CCCACATGCCAACTTGTATTCTTATCAAGGTAATTTCAAATGGCAAGATACACAAAATGG
+YER166W         GCCCCACTCAAATTTGTACACTTATCAAGGTAATATGAAATGGAGAAATCTTGCAGATGG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         AAACATCAGAAATGAGCCTGTAAATATCAATAACTTATTATTGAGAGGTTGTACCTTGAG
+YER166W         CGAGATACGAAATGAGCCAATTACTATTAATAACGTTCTGCTTCGTGGTTGCACTCTTAG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         AAACACTAAGTGGGCCATGGGTATGGTTATTTTTACTGGTGACGATACCAAGATTATGAT
+YER166W         AAATACTAAGTGGGCAATGGGTGTTGTAATGTTTACCGGTGGTGACACAAAAATCATGTT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         AAACGCTGGTGTCACTCCAACCAAAAAATCCAGAATTTCAAGAGAGTTGAATTTTTCTGT
+YER166W         AAACTCTGGCATTACACCCACCAAGAAGTCCAGGATTTCAAGAGAACTAAACTTCTCTGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GATTTTGAATTTTGTACTATTGTTTATCCTATGTTTCACTGCTGGTATTGTTAACGGTGT
+YER166W         GGTGATAAATTTCGTGCTACTTTTCATCTTATGTTTTGTTTCTGGTATTGCAAATGGTGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TTATTATAAACAGAAACCTCGATCGAGAGATTATTTTGAATTTGGTACCATTGGAGGTTC
+YER166W         ATATTACGACAAAAAAGGCAGATCACGGTTTTCCTATGAATTTGGAACAATTGCTGGGTC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TGCCTCAACTAACGGTTTTGTTTCTTTTTGGGTGGCGGTTATTCTTTATCAGTCATTGGT
+YER166W         AGCGGCGACAAACGGTTTCGTCTCATTTTGGGTTGCTGTTATTCTTTACCAATCTTTAGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TCCGATCTCTTTATATATTTCTGTGGAAATTATTAAGACAGCACAGGCTATTTTCATTTA
+YER166W         CCCAATCTCTTTGTACATTTCTGTGGAGATCATCAAAACTGCACAAGCGGCCTTCATTTA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CACTGATGTTTTGTTGTATAATGCCAAGCTAGACTATCCATGTACACCAAAGTCGTGGAA
+YER166W         CGGAGACGTTTTACTCTACAATGCCAAATTGGATTATCCTTGTACACCAAAATCCTGGAA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CATCTCCGATGATTTGGGTCAAATTGAGTATATTTTTTCAGATAAAACAGGCACCTTGAC
+YER166W         TATTTCTGACGATTTAGGTCAAGTGGAATATATATTTTCTGATAAAACAGGTACATTAAC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         ACAAAATGTGATGGAATTCAAAAAATGTACTATTAACGGTGTGTCTTATGGACGTGCCTA
+YER166W         TCAAAATGTAATGGAGTTTAAAAAATGTACTATCAATGGTGTTTCATATGGAAGAGCTTA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TACGGAGGCACTAGCAGGCCTGAGGAAGAGACAAGGTGTTGATGTCGAATCGGAAGGTCG
+YER166W         CACCGAAGCGTTAGCGGGATTAAGAAAAAGACAAGGTATCGACGTCGAAACCGAAGGTAG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TCGCGAAAAGGAAGAGATAGCAAAAGATAGGGAAACAATGATCGACGAATTAAGATCAAT
+YER166W         GCGTGAGAAGGCCGAAATTGCCAAGGATAGGGATACAATGATCGATGAACTGAGAGCTTT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GAGTGATAATACACAGTTTTGTCCGGAGGATTTAACTTTTGTATCTAAGGAAATTGTGGA
+YER166W         ATCAGGAAATTCACAATTTTATCCCGAAGAAGTTACCTTTGTATCAAAGGAGTTCGTTCG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         AGACTTGAAAGGATCCAGTGGCGACCATCAACAAAAGTGCTGTGAACACTTTTTGCTGGC
+YER166W         CGATTTGAAAGGGGCTAGTGGTGAAGTACAACAAAGATGCTGTGAGCACTTTATGTTAGC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GCTCGCATTATGTCATTCTGTCCTTGTGGAGCCAAATAAAGATGATCCTAAAAAACTGGA
+YER166W         ATTAGCTTTATGTCACTCCGTCCTTGTAGAAGCAAACCCGGACAATCCAAAAAAACTGGA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CATCAAGGCTCAATCACCTGATGAGTCTGCCTTAGTTTCCACCGCCAGACAATTAGGGTA
+YER166W         TTTAAAAGCTCAATCTCCAGACGAAGCAGCGTTAGTAGCCACAGCTAGAGATGTAGGATT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CAGTTTCGTTGGTAGTTCAAAAAGTGGATTGATAGTAGAGATCCAGGGTGTTCAAAAGGA
+YER166W         CAGTTTTGTTGGAAAAACCAAAAAAGGGTTGATAATTGAAATGCAAGGTATTCAAAAAGA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GTTCCAAGTTCTGAACGTACTTGAATTCAATTCGTCGAGAAAAAGGATGAGTTGCATTAT
+YER166W         ATTTGAGATTCTAAATATTTTGGAGTTTAATTCATCGAGAAAAAGAATGTCCTGTATTGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CAAGATCCCTGGCTCTACACCAAAGGATGAACCTAAAGCACTGTTAATATGTAAAGGTGC
+YER166W         CAAAATTCCGGGTCTGAACCCAGGGGACGAGCCTAGAGCACTTTTAATTTGTAAAGGTGC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GGATTCCGTTATCTATTCAAGATTAGATCGC------ACTCAAAACGACGCTACTTTGTT
+YER166W         AGATTCCATTATATACTCAAGATTAAGTCGCCAGAGTGGTAGCAATAGTGAAGCTATTTT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GGAAAAGACGGCCCTCCATTTGGAAGAATATGCCACAGAAGGTTTAAGAACATTATGTTT
+YER166W         GGAAAAAACTGCTTTGCATTTAGAGCAGTACGCTACTGAAGGTTTAAGAACGTTATGCAT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GGCTCAAAGAGAGCTCACGTGGTCCGAGTATGAACGTTGGGTTAAGACTTATGATGTGGC
+YER166W         AGCTCAAAGGGAGTTAAGTTGGTCTGAATACGAAAAATGGAACGAAAAGTACGATATTGC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CGCTGCATCCGTTACTAATAGGGAGGAAGAGTTGGACAAAGTTACTGACGTTATTGAACG
+YER166W         TGCTGCATCATTAGCAAACAGAGAGGATGAATTAGAAGTTGTTGCAGATTCCATTGAACG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TGAGCTTATTTTGCTTGGTGGTACGGCCATTGAGGATCGTTTACAAGATGGTGTTCCTGA
+YER166W         CGAATTGATATTATTGGGCGGTACAGCTATCGAAGATCGTTTACAAGATGGTGTTCCGGA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TTCGATTGCCCTCTTGGCCGAGGCCGGTATTAAGTTATGGGTCCTAACGGGTGATAAAGT
+YER166W         TTGTATAGAGTTGCTTGCAGAGGCAGGAATTAAATTATGGGTTCTTACGGGTGATAAAGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GGAAACTGCCATTAACATTGGTTTTTCCTGCAATGTTTTGAACAATGATATGGAATTATT
+YER166W         TGAAACAGCTATAAACATTGGATTTTCTTGCAACCTTTTGAATAATGAAATGGAATTGTT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GGTTGTGAAGGCTTCCGGCGAAGATGTAGAAGAATTTGGTAGTGACCCTATTCAAGTGGT
+YER166W         AGTTATTAAAACAACTGGTGATGACGTGAAAGAATTCGGATCAGAACCAAGTGAAATTGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TAACAATTTGGTGACAAAATACTTAAGGGAAAAATTTGGCATGAGTGGATCCGAGGAGGA
+YER166W         GGATGCTTTACTCTCCAAATACTTGAAGGAGTATTTCAACTTAACCGGTTCAGAAGAAGA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GTTAAAAGAAGCTAAAAGAGAGCATGGTTTGCCACAGGGAAATTTTGCTGTCATTATCGA
+YER166W         GATTTTTGAAGCTAAAAAGGATCACGAATTTCCGAAGGGTAATTACGCCATCGTTATCGA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TGGCGATGCGCTAAAAGTTGCTTTGAATGGTGAAGAAATGAGACGCAAGTTCTTGCTACT
+YER166W         TGGTGATGCTTTGAAATTGGCGCTATATGGTGAAGATATAAGAAGAAAGTTTCTTTTACT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GTGTAAGAATTGTAAAGCTGTTTTGTGTTGCAGAGTTTCTCCAGCACAAAAGGCTGCAGT
+YER166W         CTGCAAGAATTGTAGAGCTGTCTTATGCTGTAGAGTATCTCCATCTCAAAAAGCAGCCGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GGTCAAGTTGGTAAAAAAGACCTTAGACGTTATGACCTTGGCCATTGGTGATGGTTCGAA
+YER166W         TGTTAAGTTAGTCAAGGATTCTCTAGATGTCATGACACTAGCCATCGGCGATGGTTCCAA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TGATGTAGCCATGATTCAATCGGCGGACGTTGGTGTTGGTATCGCGGGTGAAGAAGGCAG
+YER166W         CGACGTCGCCATGATTCAATCTGCGGATGTTGGTATTGGTATTGCCGGTGAAGAAGGTCG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         ACAAGCTGTCATGTGTTCTGATTATGCCATCGGGCAGTTCAGATATGTGACAAGACTGGT
+YER166W         ACAAGCTGTTATGTGCTCAGACTACGCCATTGGACAATTCAGATATTTGGCTAGATTGGT
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         ATTGGTGCATGGTAAATGGTGTTATAAGAGACTGGCAGAGATGATCCCACAGTTTTTCTA
+YER166W         CCTCGTTCACGGTAGGTGGTCTTATAAGAGACTGGCAGAAATGATTCCTGAGTTTTTTTA
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         CAAGAACGTTATTTTTACGCTATCCCTGTTCTGGTATGGTATTTACAATAATTTCGATGG
+YER166W         CAAAAACATGATTTTTGCTTTGGCATTGTTCTGGTATGGTATCTATAATGATTTTGATGG
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         GTCGTATTTGTTTGAGTATACGTACTTGACATTCTACAATCTTGCATTCACATCCGTACC
+YER166W         GTCTTACCTGTATGAATACACATACATGATGTTCTATAATTTGGCATTTACATCCCTACC
+                                                                            
+
+Kwal_23467      ------------------------------------------------------------
+YDR093W         TGTTATTTTACTAGCAGTACTCGACCAAGATGTTTCCGACACCGTTTCGATGCTGGTGCC
+YER166W         AGTCATCTTCTTAGGTATTCTGGACCAGGACGTGAATGACACAATATCATTAGTGGTCCC
+                                                                            
+
+Kwal_23467      ----------------------ATGAGAAGTGAATGGAACCTTACAAAATTCTGGCTCTA
+YDR093W         ACAGTTGTACCGTGTGGGTATCCTAAGAAAAGAATGGAACCAAACCAAATTTCTTTGGTA
+YER166W         TCAGTTATACCGTGTTGGAATTTTAAGGAAAGAATGGAACCAAAGAAAGTTCTTATGGTA
+                                       * ** *  **********  *  ** **       **
+
+Kwal_23467      CATGGTTGACGGTTTGTACCAATCCGTGATCAGCTTTTTCTTCCCATTTTTGGCATACTA
+YDR093W         CATGTTGGATGGTGTATACCAATCTGTGATATGCTTCTTTTTCCCCTATTTGGCGTACCA
+YER166W         TATGTTGGACGGATTATATCAGTCTATTATCTGTTTTTTTTTCCCTTACTTGGTTTATCA
+                 *** * ** **  * ** ** **  * **  * ** ** ***** *  ****  **  *
+
+Kwal_23467      CAAAACAGGTATGGTGTCACCAAATGGCCTGGGGCTGGACCACCGTTATTGGGTTGGAAT
+YDR093W         TAAAAACATGGTTGTAACTGAAAATGGCCTTGGACTAGACCACCGTTACTTTGTCGGTGT
+YER166W         CAAAAATATGATAGTTACGAGCAATGGGTTAGGATTGGATCATCGTTATTTTGTCGGTGT
+                 ****      * **  *    *****  * **  * ** ** ***** *  ** **  *
+
+Kwal_23467      TCTAGTGGGCAGCATTGCCTCAGTTTCCTGTAACCTTTACATTCTCATTCACCAGTTCAG
+YDR093W         CTTCGTTACAGCAATTGCAGTCACTTCATGTAACTTTTACGTCTTCATGGAACAGTATAG
+YER166W         TTATGTGACCACTATTGCTGTAATTTCGTGTAACACATATGTTTTATTACACCAATATAG
+                    **       *****      *** ******   **  *  *  *  * ** *  **
+
+Kwal_23467      ATGGGACTGGTTCTCTACGCTCTTCATCGCTCTCTCATGTCTTGTCGTGTATGGTTGGAC
+YDR093W         ATGGGACTGGTTCTGTGGCCTATTCATATGTCTATCACTGGCCGTGTTTTACGGCTGGAC
+YER166W         ATGGGATTGGTTTAGTGGATTATTCATTGCACTGTCTTGCCTCGTAGTTTTTGCATGGAC
+                ****** *****   *    * *****    ** **       **  * *  *  *****
+
+Kwal_23467      AGGAATCTGGTCGACTTTTACGACAAGCGGAGAGTTTTACAAGAGTGCAGCTCATGTCTA
+YDR093W         GGGTATATGGACAAGCTCGTCGTCAAGTAACGAATTTTACAAGGGTGCGGCGCGTGTATT
+YER166W         GGGAATATGGTCTTCTGCGATAGCTAGTAGAGAATTTTTCAAAGCTGCAGCGCGTATCTA
+                 ** ** *** *           * **    ** **** ***   *** ** * * * * 
+
+Kwal_23467      CGGCTCTCCAATATATTGGGCCATTTTCTTTGTCGGCGTGCTTTTCTGCCTTTTGCCTCG
+YDR093W         CGCACAACCTGCCTATTGGGCAGTACTTTTCGTTGGCGTGCTGTTCTGCCTACTGCCAAG
+YER166W         TGGAGCACCTTCATTTTGGGCTGTTTTCTTTGTTGCCGTGCTGTTCTGCTTACTGCCCCG
+                 *     **    * ******  *  * ** ** * ****** ****** *  ****  *
+
+Kwal_23467      CTTCACCTTTGACGTCTTCCAGAAAATGTTCTTCCCCAAAGACATTGATATTATTCGTGA
+YDR093W         ATTCACCATTGACTGTATCAGAAAGATATTCTATCCGAAAGATATAGAGATCGTTAGAGA
+YER166W         TTTCACATATGACAGTTTTCAAAAATTTTTCTACCCAACTGATGTGGAAATAGTAAGAGA
+                 *****   ****    *    **  * ****  ** *  **  * ** **  *  * **
+
+Kwal_23467      GTTCTGGGTTCAGGGCCATTTCGATCAGTACCCAGAGGATTATGATCCCACGGATCCCAA
+YDR093W         AATGTGGTTACGCGGTGATTTTGACCTCTACCCACAAGGCTACGACCCTACGGACCCTAG
+YER166W         GATGTGGCAACATGGCCATTTCGATCATTATCCTCCTGGTTACGATCCAACAGATCCCAA
+                  * ***   *  **  **** ** *  ** **    *  ** ** ** ** ** ** * 
+
+Kwal_23467      CAGGCCTCAAATTGCTAAGGC-CGACACC----------------AAGCTGCATC-CACG
+YDR093W         CAGGCCCAGAATAAACGAAATACGTCCCCTTACAGA---TTTCAAAGAGCCCATTTCACT
+YER166W         CAGACCCAAGGTCACAAAAGCTGGGCAACACGGAGAGAAGATTATAGAAGGCATAGCACT
+                *** **     *     *     * *  *                *     ***  *** 
+
+Kwal_23467      CTATGTCGA---AGAGGGCTCAGATTACGCTCACGCGATAACGACTGCGAATCATGGATC
+YDR093W         GGACACTCATTTTGATGGTGTCAGCCACTCACAAGAGACCATAGTCACAGAGGAAATACC
+YER166W         TTCCGACAACTTAGGAGGATCGAACTATTCAAGGGATAGTGTTGTCACAGAGGAGATTCC
+                        *    *  **        *  *    *  *         *  *  *     *
+
+Kwal_23467      TCGCGACACTGTCTATACTGAAGAAA---------------------TTCCTATGACTTT
+YDR093W         AATGAGTATACTCAATGGTGAGCAAGGCTCGCGCAAGGGGTACCGTGTCTCTACCACTCT
+YER166W         AATGACTTTCATGCACGGTGAAGATGGAAGTCCTAGCGGATATCA-GAAGCAAGAAACCT
+                           *  *   ***  *                          * *  *   *
+
+Kwal_23467      TATGGAAGCTGACGATAACAATCCTG----------AACCCTTCCATCC----AAGGTC-
+YDR093W         GGAACGCCGTGACCAGCTCAGCCCCGTTACAACAACGAACAACTTGCCT--AGAAGATC-
+YER166W         GGATGACTTCACCCAAGGAAACACAAGATCTTCTTCAATCGCCCCAATTTCAGCAGGCCC
+                            * *    *   *             * *              **  * 
+
+Kwal_23467      -------------------------CAACATTAGGACTTCGCTTGACAGGACCAGAATGC
+YDR093W         -AATGGCC---AGTGCCCGCGGAAATAAGCTCAGAACTTCGCTGGATCGCACAAGAGAAG
+YER166W         AAACGTTCGGAAGAGGCCCATCAACCAACGTCAGGTCATCCTTGGACCGCACAAGAGAAC
+                                          **  * **  * **  * **  * ** ***    
+
+Kwal_23467      AAATGCGTGCTTCTAACGAGCTCGACGGCCGCTACTCCATCGAACGGGCCAGGACATCCC
+YDR093W         AGATGCTTGCCAACCACCAACTGGACACAAGATACTCCGTGGAAAGAGCACGTGCCTCGC
+YER166W         AGATGATCGCCACTAACCAACTAGATAACCGCTACTCTGTGGAAAGAGCGAGAACATCTC
+                * ***   **     ** * ** **     * *****  * *** * **  *  * ** *
+
+Kwal_23467      ACGAACTTCCCGGCGTCACCCGCGCAGAATCCTTAAT------GCGCAACTAG-------
+YDR093W         TGGATCTGCCGGGTATCAATCATGCAGAGACGCTGCTCAGCCAGCGCAGCAGGGACCGTT
+YER166W         TAGATCTACCAGGCGTAACTAACGCAGCCTCCTTAATCGG--AACACAACAGA-ACAATT
+                  ** ** ** **  * *     ****   *  *  *       * ** *          
+
+Kwal_23467      --
+YDR093W         AA
+YER166W         AA
+                  
