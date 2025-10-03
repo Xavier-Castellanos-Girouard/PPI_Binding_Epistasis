@@ -253,9 +253,9 @@ volume = 4.2*10^-14 # Litres
 Avogadro = 6.022*10^23 # Molecules per mole
 
 # Calculate concentration in mol/L (M)
-Yeast_Stoich_DF$Complex_Conc <- (Yeast_Stoich_DF$Complex_CopyNumber/(6.022*10^23))/8.2e-14 
-Yeast_Stoich_DF$Source_FreeConc <- (Yeast_Stoich_DF$Source_FreeAbundance/(6.022*10^23))/8.2e-14
-Yeast_Stoich_DF$Target_FreeConc <- (Yeast_Stoich_DF$Target_FreeAbundance/(6.022*10^23))/8.2e-14
+Yeast_Stoich_DF$Complex_Conc <- (Yeast_Stoich_DF$Complex_CopyNumber/(6.022*10^23))/volume
+Yeast_Stoich_DF$Source_FreeConc <- (Yeast_Stoich_DF$Source_FreeAbundance/(6.022*10^23))/volume
+Yeast_Stoich_DF$Target_FreeConc <- (Yeast_Stoich_DF$Target_FreeAbundance/(6.022*10^23))/volume
 
 # Calculate dissociation constant
 Yeast_Stoich_DF$Kd <- (Yeast_Stoich_DF$Source_FreeConc*Yeast_Stoich_DF$Target_FreeConc)/Yeast_Stoich_DF$Complex_Conc
