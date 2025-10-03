@@ -43,7 +43,7 @@ These scripts integrate interaction stoichiometries and genetic interaction data
 ## 2. Kd and GI
 ### Collecting Kd values from literature
 **Methods section "Validating estimated dissociation constants using values from literature"**
-These three scripts do the following: extract PPI information from the PDBbind database, files, convert PDB IDs to Uniprot IDs, converts the Uniprot IDs to systematic gene names and creates clean tables. <br>
+These three scripts do the following: extract PPI information from the PDBbind database files, convert PDB IDs to Uniprot IDs, converts the Uniprot IDs to systematic gene names and creates clean tables. <br>
 <br>
 &ensp; Script Name: PDB_bind_Extract.R <br>
 &ensp; Input files: INDEX_general_PP.2020.txt ; PDBbind_vs2020/PDB_files/* <br>
